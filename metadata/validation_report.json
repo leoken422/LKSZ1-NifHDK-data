@@ -1,0 +1,49 @@
+{
+  "preparation_date": "2026-10-26",
+  "genomes": 889,
+  "total_genome_file_bytes": 5780167370,
+  "individual_protein_files": 2667,
+  "individual_vs_aggregate": "PASS",
+  "genome_to_sequence_ID_mapping": "PASS",
+  "genome_FASTA_alphabet_and_unique_contig_IDs_within_each_file": "PASS",
+  "alignment_checks": {
+    "broad_889": {
+      "sequences": 889,
+      "alignment_columns": 2644,
+      "tree_tip_IDs": "PASS",
+      "individual_gene_concatenation": "PASS",
+      "trimmed_alignment_is_subsequence_of_input": "PASS",
+      "ungapped_aligned_equals_unaligned": 244
+    },
+    "focused_40": {
+      "sequences": 40,
+      "alignment_columns": 1286,
+      "tree_tip_IDs": "PASS",
+      "individual_gene_concatenation": "PASS",
+      "trimmed_alignment_is_subsequence_of_input": "PASS",
+      "ungapped_aligned_equals_unaligned": 0
+    }
+  },
+  "initial_screening_rows": 19243,
+  "initial_screen_exact_ID_unmatched": 0,
+  "provenance": {
+    "assembly_accession_supplied_not_remotely_verified": 700,
+    "assembly_source_not_resolved_in_supplied_table": 189
+  },
+  "missing_materials": [
+    "1129 reference sequences and full broad inference input",
+    "unpruned broad inference tree",
+    "original analysis logs and screening/assembly scripts",
+    "original partition files and separately trimmed alignments",
+    "complete source/accession/version/license metadata for all MAGs"
+  ],
+  "scope": "Frozen supplied assemblies and final NifHDK outputs. Not a complete rerunnable historical inference workflow.",
+  "additional_supplied_protein_files": [
+    {
+      "path": "NifHDK_sequences/Strain/GCF_000317125/NifK(1).faa",
+      "duplicate_of": "NifHDK_sequences/Strain/GCF_000317125/NifK.faa",
+      "sha256": "0572fc5a5ad5831d17570a181d6d98c5451c8abec22fa06f656d1ac09014d108"
+    }
+  ],
+  "aggregate_protein_files": 3
+}

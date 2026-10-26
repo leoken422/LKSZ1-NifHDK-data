@@ -1,0 +1,15 @@
+DATASET_TEXT
+SEPARATOR TAB
+DATASET_LABEL	Okumura main figures
+COLOR	#8E24AA
+MARGIN	20
+SIZE_FACTOR	1
+DATA
+LKSZ1	Fig. 7 + Fig. 8 | LKSZ1	-1	#8E24AA	bold	1	0
+GCF_028285745_Acaryochloris_sp._IP29b_bin.137	Fig. 7 + Fig. 8	-1	#000000	bold	1	0
+GCA_010672825_Leptolyngbya_sp._SIO1E4	Fig. 7 + Fig. 8	-1	#000000	bold	1	0
+GCA_010672895_Leptolyngbya_sp._SIO1D8	Fig. 7	-1	#000000	bold	1	0
+GCF_042788235_Almyronema_epifaneia_S6_strain_MCC_5313	Fig. 7	-1	#000000	bold	1	0
+GCA_015207365_Vacuolonema_iberomarrocanum_LEGE_07170	Fig. 7	-1	#000000	bold	1	0
+GCF_015207395_Nodosilinea_sp._LEGE_07088	Fig. 7	-1	#000000	bold	1	0
+GCF_000309385_Nodosilinea_nodulosa_PCC_7104	Fig. 7 + Fig. 8	-1	#000000	bold	1	0

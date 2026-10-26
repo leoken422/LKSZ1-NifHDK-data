@@ -1,0 +1,41 @@
+tree_tip_id	organism_or_tree_taxon	strain_or_bin_id	assembly_accession	biosample_accession	bioproject_accession	origin	isolation_source
+GCA_034189805_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	MAG41_tar_biofilm	GCA_034189805.1	SAMN38430250	PRJNA981336		tar patties
+MOTU40_116454__JBCBZT01	MOTU40 116454 | JBCBZT01	MOTU40_116454__JBCBZT01	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_039815185_Cyanobacteria_bacterium_P01_A01_bin.123	Cyanobacteria bacterium P01_A01_bin.123	P01_A01_bin.123	GCA_039815185.1	SAMN32763177	PRJNA914100		plastic particle
+GCA_039820305_Cyanobacteria_bacterium_J06635_15	Cyanobacteria bacterium J06635_15	J06635_15	GCA_039820305.1	SAMN32762933	PRJNA914100		plastic particle
+GCA_039180385_Cyanobacteria_bacterium_P01_G01_bin.38	Cyanobacteria bacterium P01_G01_bin.38	P01_G01_bin.38	GCA_039180385.1	SAMN32767089	PRJNA914100		plastic particle
+GCA_039820425_Cyanobacteria_bacterium_J06635_1	Cyanobacteria bacterium J06635_1	J06635_1	GCA_039820425.1	SAMN32762927	PRJNA914100		plastic particle
+GCA_038527325_Cyanobacteria_bacterium_J06614_10	Cyanobacteria bacterium J06614_10	J06614_10	GCA_038527325.1	SAMN32762478	PRJNA914100		plastic particle
+GCA_038521415_Cyanobacteria_bacterium_J06627_3	Cyanobacteria bacterium J06627_3	J06627_3	GCA_038521415.1	SAMN32762602	PRJNA914100		plastic particle
+GCA_039815875_Cyanobacteria_bacterium_J06656_5	Cyanobacteria bacterium J06656_5	J06656_5	GCA_039815875.1	SAMN32763142	PRJNA914100		plastic particle
+GCA_038748405_Cyanobacteria_bacterium_P01_H01_bin.21	Cyanobacteria bacterium P01_H01_bin.21	P01_H01_bin.21	GCA_038748405.1	SAMN32767677	PRJNA914100		plastic particle
+GCA_038748225_Cyanobacteria_bacterium_P01_H01_bin.26	Cyanobacteria bacterium P01_H01_bin.26	P01_H01_bin.26	GCA_038748225.1	SAMN32767682	PRJNA914100		plastic particle
+GCA_039024555_Cyanobacteria_bacterium_P01_D01_bin.156	Cyanobacteria bacterium P01_D01_bin.156	P01_D01_bin.156	GCA_039024555.1	SAMN32766576	PRJNA914100		plastic particle
+GCA_039817185_Cyanobacteria_bacterium_J06648_16	Cyanobacteria bacterium J06648_16	J06648_16	GCA_039817185.1	SAMN32763088	PRJNA914100		plastic particle
+GCF_028285745_Acaryochloris_sp._IP29b_bin.137	Acaryochloris sp. IP29b_bin.137	IP29b_bin.137	GCF_028285745.1	SAMN29486709	PRJNA857095		Coral skeleton
+MOTU40_116494__SIO1E4	MOTU40 116494 | SIO1E4	MOTU40_116494__SIO1E4	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_010672895_Leptolyngbya_sp._SIO1D8	Leptolyngbya sp. SIO1D8	SIO1D8	GCA_010672895.1	SAMN12797958	PRJNA558979		marine benthic turfs
+GCA_038750375_Cyanobacteria_bacterium_P01_H01_bin.15	Cyanobacteria bacterium P01_H01_bin.15	P01_H01_bin.15	GCA_038750375.1	SAMN32767633	PRJNA914100		plastic particle
+GCF_028330965_Oscillatoria_sp._CS-180	Oscillatoria sp. CS-180	CS-180	GCF_028330965.1	SAMN32758773	PRJNA924361	Culture-derived genome	freshwater
+GCA_041164445_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	bin.118	GCA_041164445.1	SAMN37153605	PRJNA946291		river surface water
+SPIREOTU_00378742__SPIREOTU_00378742	SPIREOTU 00378742 | SPIREOTU 00378742	SPIREOTU_00378742	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_042788235_Almyronema_epifaneia_S6_strain_MCC_5313	Almyronema epifaneia S6	S6; MCC 5313	GCF_042788235.1	SAMN44015207	PRJNA1167801	Culture-derived genome	soil biofilm
+GCA_963718615_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_963718615.1	SAMEA114818349	PRJEB58634		sediment
+Vamb_SRR27489832_2__Vamb_SRR27489832_2	Vamb SRR27489832 2 | Vamb SRR27489832 2	Vamb_SRR27489832_2	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_002286845_Geitlerinema_sp._FC_II	Geitlerinema sp. FC II	FC II	GCA_002286845.1	SAMN07522602	PRJNA399071	Culture-derived genome	Saline water
+LKSZ1	Synechocystis sp. LKSZ1	LKSZ1	GCA_040436315.1	SAMD00775684	PRJDB18039	Culture-derived genome	
+BCRBG_50736__Halomicronema	BCRBG 50736 | Halomicronema	BCRBG_50736__Halomicronema	Not resolved	Not resolved	Not resolved		Not resolved
+GOMCOTU_14229__GOMCOTU_14229	GOMCOTU 14229 | GOMCOTU 14229	GOMCOTU_14229	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_039819245_Cyanobacteria_bacterium_J06638_20	Cyanobacteria bacterium J06638_20	J06638_20	GCA_039819245.1	SAMN32762985	PRJNA914100		plastic particle
+GCA_015207365_Vacuolonema_iberomarrocanum_LEGE_07170	Vacuolonema iberomarrocanum LEGE 07170	LEGE 07170	GCA_015207365.1	SAMN16351739	PRJNA667061	Culture-derived genome	wave-exposed tide puddle
+GCF_000309385_Nodosilinea_nodulosa_PCC_7104	Nodosilinea nodulosa PCC 7104	PCC 7104	GCF_000309385.1	SAMN02261265	PRJNA62311; PRJNA166933	Culture-derived genome	rock at shoreline
+GCA_038523235_Cyanobacteria_bacterium_J06626_4	Cyanobacteria bacterium J06626_4	J06626_4	GCA_038523235.1	SAMN32762574	PRJNA914100		plastic particle
+GCA_937899725_uncultured_Halomicronema_sp.	uncultured Halomicronema sp.		GCA_937899725.1	SAMEA14075427	PRJEB51078; PRJEB51083		marine metagenome
+GCF_015207395_Nodosilinea_sp._LEGE_07088	Nodosilinea sp. LEGE 07088	LEGE 07088	GCF_015207395.1	SAMN16351736	PRJNA667061	Culture-derived genome	mesotidal zone, benthic
+GCA_036848635_Nodosilinea_sp._CTOTU7336	Nodosilinea sp. CTOTU7336	CTOTU7336	GCA_036848635.1	SAMN28751800	PRJNA843551		water
+SemiBins2_SRR33532330_4__SemiBins2_SRR33532330_4	SemiBins2 SRR33532330 4 | SemiBins2 SRR33532330 4	SemiBins2_SRR33532330_4	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_035285585_Synechococcales_cyanobacterium	Synechococcales cyanobacterium	1108005	GCA_035285585.1	SAMN39195481	PRJNA691704		surface water
+GCA_038520475_Cyanobacteria_bacterium_J06627_8	Cyanobacteria bacterium J06627_8	J06627_8	GCA_038520475.1	SAMN32762615	PRJNA914100		plastic particle
+GCA_039033975_Cyanobacteria_bacterium_P01_A01_bin.37	Cyanobacteria bacterium P01_A01_bin.37	P01_A01_bin.37	GCA_039033975.1	SAMN32766184	PRJNA914100		plastic particle
+MOTU40_036001__CCP5	MOTU40 036001 | CCP5	MOTU40_036001__CCP5	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_010672825_Leptolyngbya_sp._SIO1E4	Leptolyngbya sp. SIO1E4	SIO1E4	GCA_010672825.2	SAMN12797911	PRJNA558979		marine benthic turfs

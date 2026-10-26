@@ -1,0 +1,4 @@
+gene	start_1based	end_1based_inclusive	columns	boundary_evidence
+NifH	1	286	286	reconstructed_from_manuscript_Methods_not_original_partition_file
+NifD	287	767	481	reconstructed_from_manuscript_Methods_not_original_partition_file
+NifK	768	1286	519	reconstructed_from_manuscript_Methods_not_original_partition_file

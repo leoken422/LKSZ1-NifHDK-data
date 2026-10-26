@@ -1,0 +1,32 @@
+{
+  "title": "Genome assemblies, NifHDK sequences, alignments and phylogenetic trees for Synechocystis sp. LKSZ1",
+  "item_type": "dataset",
+  "keywords": [
+    "Synechocystis",
+    "LKSZ1",
+    "Cyanobacteriota",
+    "nitrogen fixation",
+    "NifHDK",
+    "metagenome-assembled genomes",
+    "phylogeny"
+  ],
+  "authors_in_deposit_order": [
+    "Leonardo Ken Okumura",
+    "Mari Banba",
+    "Kazuma Uesaka",
+    "Shouta Nonoyama",
+    "Yuichi Fujita",
+    "Shinji Masuda"
+  ],
+  "author_ORCIDs": [],
+  "funding": [],
+  "license": null,
+  "figshare_version_DOI": null,
+  "figshare_reserved_base_DOI": "10.6084/m9.figshare.34788258",
+  "figshare_publication_status": "reserved_DOI_reported_by_user_publication_not_verified",
+  "github_repository_URL": "https://github.com/leoken422/LKSZ1-NifHDK-data",
+  "github_release_tag": "manuscript-2026-10-26-v1",
+  "article_DOI": null,
+  "release_status": "local_preparation_only",
+  "github_visibility": "private_as_shown_in_user_screenshot_2026-10-26"
+}

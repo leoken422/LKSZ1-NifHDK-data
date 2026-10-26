@@ -1,0 +1,890 @@
+tree_tip_id	organism_or_tree_taxon	strain_or_bin_id	assembly_accession	biosample_accession	bioproject_accession	origin	isolation_source
+GCF_013343235_Nostoc_sp._TCL240-02	Nostoc sp. TCL240-02	TCL240-02	GCF_013343235.1	SAMN11484046	PRJNA534312		Not available in retrieved metadata
+GCF_014831675_Komarekiella_delphini-convector_SJRDD-AB1	Komarekiella delphini-convector SJRDD-AB1	SJRDD-AB1	GCF_014831675.1	SAMN12216502	PRJNA552691		epidermal algal mat
+GCF_047228265_Nostoc_sp._UIC_10607	Nostoc sp. UIC 10607	UIC 10607	GCF_047228265.1	SAMN43539006	PRJNA1158466	Culture-derived genome	missing
+GCF_034531215_Nostoc_sp._ChiSLP03a	Nostoc sp. ChiSLP03a	ChiSLP03a	GCF_034531215.2	SAMN37356859	PRJNA1014740		cycad coralloid root, plant 4, MAG a
+GCF_026127265_Nostoc_sp._KVJ3	Nostoc sp. KVJ3	KVJ3	GCF_026127265.1	SAMN13066476	PRJNA388731	Culture-derived genome	Not available in retrieved metadata
+GCF_036919795_Nostoc_sp.	Nostoc sp.	P10894 bin 1	GCF_036919795.1	SAMN39504454	PRJNA1066398		Peltigera malacea 2
+GCF_036917735_Nostoc_sp.	Nostoc sp.	P8926 bin 12	GCF_036917735.1	SAMN39504528	PRJNA1066398		Peltigera malacea 2
+GCF_036917755_Nostoc_sp.	Nostoc sp.	P9119 bin 5	GCF_036917755.1	SAMN39504529	PRJNA1066398		Peltigera frippii
+GCF_036919575_Nostoc_sp.	Nostoc sp.	P10160 bin 1	GCF_036919575.1	SAMN39504447	PRJNA1066398		Peltigera aphthosa 5
+GCF_036917215_Nostoc_sp.	Nostoc sp.	P2115 bin 1	GCF_036917215.1	SAMN39504491	PRJNA1066398		Peltigera vainioi
+GCF_036916655_Nostoc_sp.	Nostoc sp.	S62 bin 9	GCF_036916655.1	SAMN39504551	PRJNA1066398		Peltigera asiatica
+GCF_001712795_Nostoc_sp._KVJ20	Nostoc sp. KVJ20	KVJ20	GCF_001712795.1	SAMN04453661	PRJNA310825	Culture-derived genome	Not available in retrieved metadata
+GCF_034530635_Nostoc_sp._EspVER01	Nostoc sp. EspVER01	EspVER01	GCF_034530635.1	SAMN37356887	PRJNA1014740		cycad coralloid root, plant 1
+GCF_030382115_Nostoc_sp._GT001	Nostoc sp. GT001	GT001	GCF_030382115.1	SAMN35839405	PRJNA986470		Not available in retrieved metadata
+GCF_014698065_Nostoc_flagelliforme_FACHB-838	Nostoc flagelliforme FACHB-838	FACHB-838	GCF_014698065.1	SAMN13702689	PRJNA598298		freshwater
+GCF_014698795_Nostoc_sp._FACHB-892	Nostoc sp. FACHB-892	FACHB-892	GCF_014698795.1	SAMN13702654	PRJNA598298		Terrestrial
+SRR9290675_bin32__Nostoc_sp014698795	Nostoc sp014698795	SRR9290675_bin32	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_036918115_Nostoc_sp.	Nostoc sp.	P6963 bin 9	GCF_036918115.1	SAMN39504513	PRJNA1066398		Peltigera nana
+GCA_019359215_Nostoc_indistinguendum_CM1-VF10	Nostoc indistinguendum CM1-VF10	CM1-VF10	GCA_019359215.1	SAMN19065575	PRJNA727914; PRJNA688935		gravelly and rocky gypsiferous soil near a gypsum mine
+GCF_000020025_Nostoc_punctiforme_PCC_73102_strain_ATCC_29133_PCC_73102	Nostoc punctiforme PCC 73102	ATCC 29133; PCC 73102	GCF_000020025.1	SAMN02598449	PRJNA216		Not available in retrieved metadata
+GCF_043099725_Nostoc_sp._C110	Nostoc sp. C110	C110	GCF_043099725.1	SAMN43896574	PRJNA1164287		Not available in retrieved metadata
+GCF_013393925_Nostoc_sp._C057	Nostoc sp. C057	C057	GCF_013393925.1	SAMN11587924	PRJNA534312		Not available in retrieved metadata
+GCF_003326245_Nostoc_sp._ATCC_53789	Nostoc sp. ATCC 53789	ATCC 53789	GCF_003326245.1	SAMN04901518	PRJNA319598		lichen
+GCF_014698035_Desmonostoc_muscorum_FACHB-395	Desmonostoc muscorum FACHB-395	FACHB-395	GCF_014698035.1	SAMN13702692	PRJNA598298		freshwater
+GCF_034932245_Nostoc_sp._UHCC_0251	Nostoc sp. UHCC 0251	UHCC 0251	GCF_034932245.1	SAMN39054826	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+GCF_963920915_Nostoc_sp._PCC_9305	Nostoc sp. PCC 9305	Nostoc CCY 9926	GCF_963920915.1	SAMEA114538416	PRJEB67822		Not available in retrieved metadata
+GCF_015206995_aff._Roholtiella_sp._LEGE_12411	aff. Roholtiella sp. LEGE 12411	LEGE 12411	GCF_015206995.1	SAMN16351756	PRJNA667061	Culture-derived genome	benthic mat, on an ephemeral stream
+GCF_034531135_Nostoc_sp._CmiVER01	Nostoc sp. CmiVER01	CmiVER01	GCF_034531135.2	SAMN37356863	PRJNA1014740		cycad coralloid root, plant 1
+GCA_020829665_Nostoc_sp._CHAB_5824	Nostoc sp. CHAB 5824	CHAB 5824	GCA_020829665.1	SAMN16418215	PRJNA668662		terrestrial
+GCF_017115105_Nostoc_sp._NMS2	Nostoc sp. NMS2	NMS2	GCF_017115105.1	SAMN14531966	PRJNA616181		lichen thallus
+GCF_036916855_Nostoc_sp.	Nostoc sp.	P943 bin 5	GCF_036916855.1	SAMN39504531	PRJNA1066398		Peltigera extenuata 2
+GCF_015714705_Nostoc_sp._NZL	Nostoc sp. NZL	NZL	GCF_015714705.1	SAMN12837463	PRJNA573962		temperate lake
+GCF_036917235_Nostoc_sp.	Nostoc sp.	P2164 bin 3	GCF_036917235.1	SAMN39504495	PRJNA1066398		Peltigera globulata
+GCF_036918215_Nostoc_sp.	Nostoc sp.	P2224 bin 14	GCF_036918215.1	SAMN39504499	PRJNA1066398		Peltigera neocanina 3
+GCF_017115045_Nostoc_sp._NMS8	Nostoc sp. NMS8	NMS8	GCF_017115045.1	SAMN14531969	PRJNA616181		lichen thallus
+GCF_036917455_Nostoc_sp.	Nostoc sp.	P1574 bin 1	GCF_036917455.1	SAMN39504485	PRJNA1066398		Peltigera dolichorhiza
+GCA_964252435_uncultured_Nostoc_sp.	uncultured Nostoc sp.		GCA_964252435.1	SAMEA115955269	PRJEB77567		lichen metagenome
+GCF_036916975_Nostoc_sp.	Nostoc sp.	P9639 bin 5	GCF_036916975.1	SAMN39504532	PRJNA1066398		Massalongia carnosa
+GEMOTU_05958__Komarekiella	GEMOTU_05958__Komarekiella	GEMOTU_05958	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_020829625_Nostoc_sp._XA010	Nostoc sp. XA010	XA010	GCF_020829625.1	SAMN16418219	PRJNA668662		terrestrial
+GCF_036918275_Nostoc_sp.	Nostoc sp.	P2180 bin 2	GCF_036918275.1	SAMN39504497	PRJNA1066398		Peltigera ponojensis/monticola 1a
+GCA_038259325_Chroococcales_cyanobacterium	Chroococcales cyanobacterium	LS6_sbin.41	GCA_038259325.1	SAMN40201511	PRJNA855145		soil
+GCF_023734775_Nostoc_cf._commune_SO-36	Nostoc cf. commune SO-36	SO-36	GCF_023734775.1	SAMD00439332	PRJDB12904		Not available in retrieved metadata
+GCF_036918095_Nostoc_sp.	Nostoc sp.	P6524 bin 1	GCF_036918095.1	SAMN39504508	PRJNA1066398		Peltigera praetextata
+GCF_036917275_Nostoc_sp.	Nostoc sp.	P14213 bin 4	GCF_036917275.1	SAMN39504480	PRJNA1066398		Lobaria sp.
+GCF_036919765_Nostoc_sp.	Nostoc sp.	P11060 bin 1	GCF_036919765.1	SAMN39504455	PRJNA1066398		Leptogium saturninum
+GCF_036917465_Nostoc_sp.	Nostoc sp.	P2037 bin 28	GCF_036917465.1	SAMN39504486	PRJNA1066398		Peltigera aubertii
+GCF_036918055_Nostoc_sp.	Nostoc sp.	P607 bin 11	GCF_036918055.1	SAMN39504505	PRJNA1066398		Peltigera sp. 3
+GCF_002245975_Nostoc_sp._Peltigera_membranacea_cyanobiont_213	Nostoc sp. 'Peltigera membranacea cyanobiont' 213	213	GCF_002245975.1	SAMN07191895	PRJNA389200	Culture-derived genome	thallus
+GCF_036918175_Nostoc_sp.	Nostoc sp.	P539 bin 14	GCF_036918175.1	SAMN39504504	PRJNA1066398		Peltigera hymenina
+GCF_002246015_Nostoc_sp._Peltigera_membranacea_cyanobiont_210A	Nostoc sp. 'Peltigera membranacea cyanobiont' 210A	210A	GCF_002246015.1	SAMN07191894	PRJNA389199	Culture-derived genome	thallus
+GCF_014696655_Nostoc_sp._FACHB-888	Nostoc sp. FACHB-888	FACHB-888	GCF_014696655.1	SAMN13702738	PRJNA598298		Terrestrial
+GCA_020829585_Nostoc_sp._XA013	Nostoc sp. XA013	XA013	GCA_020829585.1	SAMN16418220	PRJNA668662		terrestrial
+GCF_036916555_Nostoc_sp.	Nostoc sp.	PL483 bin 4	GCF_036916555.1	SAMN39504556	PRJNA1066398		Peltigera ponojensis
+GCF_017114965_Nostoc_sp._JL31	Nostoc sp. JL31	JL31	GCF_017114965.1	SAMN14531973	PRJNA616181		lichen thallus
+GCF_036917915_Nostoc_sp.	Nostoc sp.	P8577 bin 23	GCF_036917915.1	SAMN39504522	PRJNA1066398		Peltigera aphthosa 5
+GCF_036917095_Nostoc_sp.	Nostoc sp.	P9820 bin 6	GCF_036917095.1	SAMN39504534	PRJNA1066398		Peltigera canina 2
+GCF_034931145_Nostoc_sp._UHCC_0252	Nostoc sp. UHCC 0252	UHCC 0252	GCF_034931145.1	SAMN39054827	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+GCF_036918225_Nostoc_sp.	Nostoc sp.	P6465 bin 9	GCF_036918225.1	SAMN39504507	PRJNA1066398		Peltigera appalachiensis
+GCF_036916615_Nostoc_sp.	Nostoc sp.	S32 bin 15	GCF_036916615.1	SAMN39504544	PRJNA1066398		Peltigera vitikainenii
+GCF_002245985_Nostoc_sp._Peltigera_membranacea_cyanobiont_232	Nostoc sp. 'Peltigera membranacea cyanobiont' 232	232	GCF_002245985.1	SAMN07191897	PRJNA389202	Culture-derived genome	thallus
+GCF_036917135_Nostoc_sp.	Nostoc sp.	P3068 bin 7	GCF_036917135.1	SAMN39504501	PRJNA1066398		Peltigera clathrata
+GCF_015207245_Nostoc_cf._edaphicum_LEGE_07299	Nostoc cf. edaphicum LEGE 07299	LEGE 07299	GCF_015207245.1	SAMN16351744	PRJNA667061	Culture-derived genome	water sample, on the estuary shore
+GCF_964247315_uncultured_Nostoc_sp.	uncultured Nostoc sp.		GCF_964247315.1	SAMEA115955230	PRJEB77567		lichen metagenome
+GCF_017114995_Nostoc_sp._NMS9	Nostoc sp. NMS9	NMS9	GCF_017114995.1	SAMN14531970	PRJNA616181		lichen thallus
+GCF_036916875_Nostoc_sp.	Nostoc sp.	S44 bin 8	GCF_036916875.1	SAMN39504547	PRJNA1066398		Peltigera phyllidiosa
+GCF_036918195_Nostoc_sp.	Nostoc sp.	P14269 bin 10	GCF_036918195.1	SAMN39504482	PRJNA1066398		Sticta sp.
+GCF_036916775_Nostoc_sp.	Nostoc sp.	S12 bin 12	GCF_036916775.1	SAMN39504539	PRJNA1066398		Fuscopannaria ahlneri
+GCF_029379315_Nostoc_sp._S13	Nostoc sp. S13	S13	GCF_029379315.1	SAMN32614563	PRJNA918780		lichen thallus
+GCF_036917055_Nostoc_sp.	Nostoc sp.	P9895 bin 3	GCF_036917055.1	SAMN39504536	PRJNA1066398		Nephroma resupinatum
+GCF_036919715_Nostoc_sp.	Nostoc sp.	P12521 bin 3	GCF_036919715.1	SAMN39504460	PRJNA1066398		Lobaria sp.
+MetaBAT2_SRR18162834_bin.14__Nostoc	MetaBAT2_SRR18162834_bin.14__Nostoc	MetaBAT2_SRR18162834_bin.14	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_036919615_Nostoc_sp.	Nostoc sp.	P12537 bin 5	GCF_036919615.1	SAMN39504462	PRJNA1066398		Pseudocyphellaria sp.
+GCF_036919815_Nostoc_sp.	Nostoc sp.	P10324 bin 2	GCF_036919815.1	SAMN39504453	PRJNA1066398		Peltigera britannica 2
+GCF_036919895_Nostoc_sp.	Nostoc sp.	8277 bin 2	GCF_036919895.1	SAMN39504445	PRJNA1066398		Peltigera aubertii
+GCF_017115085_Nostoc_sp._NMS7	Nostoc sp. NMS7	NMS7	GCF_017115085.1	SAMN14531968	PRJNA616181		lichen thallus
+GCF_036917595_Nostoc_sp.	Nostoc sp.	P12570 bin 5	GCF_036917595.1	SAMN39504469	PRJNA1066398		Sticta hypochra
+GCF_036917675_Nostoc_sp.	Nostoc sp.	P12569 bin 5	GCF_036917675.1	SAMN39504468	PRJNA1066398		Sticta caulescens
+GCF_036917435_Nostoc_sp.	Nostoc sp.	P2039 bin 23	GCF_036917435.1	SAMN39504487	PRJNA1066398		Peltigera hydrophila
+GCF_036917015_Nostoc_sp.	Nostoc sp.	P9822 bin 12	GCF_036917015.1	SAMN39504535	PRJNA1066398		Peltigera malacea 2
+GCF_036917815_Nostoc_sp.	Nostoc sp.	P6620 bin 4	GCF_036917815.1	SAMN39504511	PRJNA1066398		Peltigera neopolydactyla
+MetaBAT2_SRR15568764_bin.13__Nostoc	MetaBAT2_SRR15568764_bin.13__Nostoc	MetaBAT2_SRR15568764_bin.13	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_036919855_Nostoc_sp.	Nostoc sp.	3 bin 5	GCF_036919855.1	SAMN39504444	PRJNA1066398		Peltigera monticola
+GCF_017115025_Nostoc_sp._NOS_2021	Nostoc sp. NOS(2021)	NOS	GCF_017115025.1	SAMN14531971	PRJNA616181		lichen thallus
+GCF_036916795_Nostoc_sp.	Nostoc sp.	S52 bin 4	GCF_036916795.1	SAMN39504550	PRJNA1066398		Peltigera appalachiensis
+GCF_036919835_Nostoc_sp.	Nostoc sp.	P10247 bin 16	GCF_036919835.1	SAMN39504450	PRJNA1066398		Scytinium intermedium
+GCF_036917935_Nostoc_sp.	Nostoc sp.	P6236 bin 11	GCF_036917935.1	SAMN39504512	PRJNA1066398		Peltigera fuscopraetextata
+SPIREOTU_01277959__Nostoc_sp023522315	Nostoc sp023522315	SPIREOTU_01277959	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_076941__Nostoc	MOTU40_076941__Nostoc	MOTU40_076941	Not resolved	Not resolved	Not resolved		Not resolved
+MAG202307_ERR10878199_bin14__Nostoc	MAG202307_ERR10878199_bin14__Nostoc	MAG202307_ERR10878199_bin14	Not resolved	Not resolved	Not resolved		Not resolved
+SRR18651703_bin4__Nostoc	SRR18651703_bin4__Nostoc	SRR18651703_bin4	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_015714725_Nostoc_sp._WHI	Nostoc sp. WHI	WHI	GCF_015714725.1	SAMN12837462	PRJNA573962		shallow ephemeral pool
+GCA_038249935_Chroococcales_cyanobacterium	Chroococcales cyanobacterium	metawrap_la6_45	GCA_038249935.1	SAMN40200920	PRJNA855145		sediment
+GCF_036917575_Nostoc_sp.	Nostoc sp.	P12646 bin 6	GCF_036917575.1	SAMN39504477	PRJNA1066398		Leptogium sp.
+GCF_002949795_Nostoc_sp._Lobaria_pulmonaria_5183_cyanobiont	Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont'	5183	GCF_002949795.1	SAMN03354403	PRJNA275880		Not available in retrieved metadata
+GCF_041747015_Nostoc_sp.	Nostoc sp.	JTS-RE202	GCF_041747015.1	SAMN41306147	PRJNA1081961; PRJNA1080596		travertine gravel
+GCF_036919675_Nostoc_sp.	Nostoc sp.	P12559 bin 8	GCF_036919675.1	SAMN39504464	PRJNA1066398		Pseudocyphellaria guillemini
+GCF_036919635_Nostoc_sp.	Nostoc sp.	P12564 bin 10	GCF_036919635.1	SAMN39504466	PRJNA1066398		Pseudocyphellaria corifolia
+GCF_937863485_uncultured_Nostoc_sp.	uncultured Nostoc sp.		GCF_937863485.1	SAMEA14035940	PRJEB51077; PRJEB51083		lichen metagenome
+MetaBAT2_SRR18162809_bin.3__Nostoc_sp036919675	Nostoc sp036919675	MetaBAT2_SRR18162809_bin.3	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_036919555_Nostoc_sp.	Nostoc sp.	P12567 bin 1	GCF_036919555.1	SAMN39504467	PRJNA1066398		Sticta hypochra
+GCF_036919655_Nostoc_sp.	Nostoc sp.	P12560 bin 18	GCF_036919655.1	SAMN39504465	PRJNA1066398		Pseudocyphellaria berberina
+GCF_036917395_Nostoc_sp.	Nostoc sp.	P14318 bin 17	GCF_036917395.1	SAMN39504483	PRJNA1066398		Sticta sp.
+GCF_036917615_Nostoc_sp.	Nostoc sp.	P12591 bin 6	GCF_036917615.1	SAMN39504474	PRJNA1066398		Collema sp.
+GCF_036917695_Nostoc_sp.	Nostoc sp.	P12584 bin 11	GCF_036917695.1	SAMN39504472	PRJNA1066398		Pseudocyphellaria meyenii
+GCF_036916915_Nostoc_sp.	Nostoc sp.	S27 bin 9	GCF_036916915.1	SAMN39504542	PRJNA1066398		Peltigera vitikainenii
+GCF_036916695_Nostoc_sp.	Nostoc sp.	S40 bin 5	GCF_036916695.1	SAMN39504545	PRJNA1066398		Peltigera appalachiensis
+GCF_017114945_Nostoc_sp._JL34	Nostoc sp. JL34	JL34	GCF_017114945.1	SAMN14531975	PRJNA616181		lichen thallus
+GCF_036917995_Nostoc_sp.	Nostoc sp.	P8202 bin 9	GCF_036917995.1	SAMN39504514	PRJNA1066398		Peltigera latiloba
+GCF_034530775_Nostoc_sp._DedSLP04	Nostoc sp. DedSLP04	DedSLP04	GCF_034530775.1	SAMN37356880	PRJNA1014740		cycad coralloid root, plant 3
+GCF_036919495_Nostoc_sp.	Nostoc sp.	P10246 bin 10	GCF_036919495.1	SAMN39504448	PRJNA1066398		Protopannaria pezizoides
+MOTU40_089284__Nostoc	MOTU40_089284__Nostoc	MOTU40_089284	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_015206985_Nostoc_sp._LEGE_12447	Nostoc sp. LEGE 12447	LEGE 12447	GCF_015206985.1	SAMN16351758	PRJNA667061	Culture-derived genome	cycad coralloid root
+GCF_010747425_Nostoc_sp._UIC_10630	Nostoc sp. UIC 10630	UIC 10630	GCF_010747425.1	SAMN14008317	PRJNA605020		soil
+GCF_014698055_Nostoc_sp._FACHB-133	Nostoc sp. FACHB-133	FACHB-133	GCF_014698055.1	SAMN13702690	PRJNA598298		Terrestrial
+GCF_014698505_Nostoc_foliaceum_FACHB-393	Nostoc foliaceum FACHB-393	FACHB-393	GCF_014698505.1	SAMN13702668	PRJNA598298		Terrestrial
+GCF_014023275_Nostoc_edaphicum_CCNP1411	Nostoc edaphicum CCNP1411	CCNP1411	GCF_014023275.1	SAMN15196599	PRJNA638531	Culture-derived genome	Not available in retrieved metadata
+GCF_014222255_Nostoc_sp._UCD120	Nostoc sp. UCD120	UCD120	GCF_014222255.1	SAMN13392104	PRJNA591939		missing
+GCF_036916985_Nostoc_sp.	Nostoc sp.	P9121 bin 11	GCF_036916985.1	SAMN39504530	PRJNA1066398		Peltigera appalachiensis
+GCF_036917535_Nostoc_sp.	Nostoc sp.	P12641 bin 9	GCF_036917535.1	SAMN39504475	PRJNA1066398		Leptogium sp.
+GCF_036917515_Nostoc_sp.	Nostoc sp.	P12650 bin 7	GCF_036917515.1	SAMN39504479	PRJNA1066398		Leptogium sp.
+GCF_036916735_Nostoc_sp.	Nostoc sp.	S5 bin 2	GCF_036916735.1	SAMN39504548	PRJNA1066398		Physma radians
+GCF_036916575_Nostoc_sp.	Nostoc sp.	S9 bin 6	GCF_036916575.1	SAMN39504555	PRJNA1066398		Physma byrsaeum
+GCF_036916635_Nostoc_sp.	Nostoc sp.	S8 bin 2	GCF_036916635.1	SAMN39504554	PRJNA1066398		Physma byrsaeum
+GCF_052692655_Nostoc_sp._DSM_114167	Nostoc sp. DSM 114167	DSM 114167	GCF_052692655.1	SAMN49094505	PRJNA1277286		coralloid root
+GCF_020829685_Nostoc_sp._CHAB_5715	Nostoc sp. CHAB 5715	CHAB 5715	GCF_020829685.1	SAMN16418213	PRJNA668662		terrestrial
+GCF_036917375_Nostoc_sp.	Nostoc sp.	P2081 bin 11	GCF_036917375.1	SAMN39504488	PRJNA1066398		Peltigera canina 2
+GCF_034530835_Nostoc_sp._DedQUE12b	Nostoc sp. DedQUE12b	DedQUE12b	GCF_034530835.1	SAMN37356877	PRJNA1014740		cycad coralloid root, plant 11, MAG b
+GCF_000316575_Calothrix_sp._PCC_7507	Calothrix sp. PCC 7507	PCC 7507	GCF_000316575.1	SAMN02261328	PRJNA158683; PRJNA166933	Culture-derived genome	Sphagnum bog
+GCA_036918135_Nostoc_sp.	Nostoc sp.	P12642 bin 1	GCA_036918135.1	SAMN39504476	PRJNA1066398		Leptogium sp.
+GCF_016056275_Dendronalium_phyllosphericum_CENA369	Dendronalium phyllosphericum CENA369	CENA369	GCF_016056275.1	SAMN16982920	PRJNA682198		Not available in retrieved metadata
+GCA_034531095_Nostoc_sp._CreGUA01	Nostoc sp. CreGUA01	CreGUA01	GCA_034531095.2	SAMN37356864	PRJNA1014740		cycad coralloid root, plant 1
+GCA_034530595_Nostoc_sp._SerVER01	Nostoc sp. SerVER01	SerVER01	GCA_034530595.2	SAMN37356888	PRJNA1014740		cycad coralloid root, plant 1
+GCF_963920935_Nostoc_sp._CCY_9925	Nostoc sp. CCY 9925	Nostoc CCY 9925	GCF_963920935.1	SAMEA114538417	PRJEB67822		Not available in retrieved metadata
+GCA_034530855_Nostoc_sp._DedQUE11	Nostoc sp. DedQUE11	DedQUE11	GCA_034530855.1	SAMN37356875	PRJNA1014740		cycad coralloid root, plant 10
+GCA_034531115_Nostoc_sp._CmiSLP01	Nostoc sp. CmiSLP01	CmiSLP01	GCA_034531115.2	SAMN37356862	PRJNA1014740		cycad coralloid root, plant 1
+GCA_003326205_Nostoc_sp._ATCC_43529	Nostoc sp. ATCC 43529	ATCC 43529	GCA_003326205.1	SAMN04901515	PRJNA319597		non-axenic culture from lake water
+GCF_034531165_Dendronalium_sp._ChiSLP03b	Dendronalium sp. ChiSLP03b	ChiSLP03b	GCF_034531165.2	SAMN37356860	PRJNA1014740		cycad coralloid root, plant 4, MAG b
+GCA_003326215_Nostoc_minutum_NIES-26	Nostoc minutum NIES-26	NIES-26	GCA_003326215.1	SAMN04901525	PRJNA319601		non-axenic culture
+GCF_014698115_Nostoc_sp._FACHB-973	Nostoc sp. FACHB-973	FACHB-973	GCF_014698115.1	SAMN13702688	PRJNA598298		freshwater
+GCF_002607925_Nostoc_linckia_z18	Nostoc linckia z18	z18	GCF_002607925.1	SAMN03338913	PRJNA274736		not applicable
+GCF_014698495_Nostoc_punctiforme_FACHB-252	Nostoc punctiforme FACHB-252	FACHB-252	GCF_014698495.1	SAMN13702669	PRJNA598298		Terrestrial
+GCA_016743225_Nostoc_sp._GBBB01	Nostoc sp. GBBB01	GBBB01	GCA_016743225.1	SAMN12574295	PRJNA560270		non-axenic (unialgal) sample in BG-11 medium
+GCA_034530535_Nostoc_sp._ZfuVER08	Nostoc sp. ZfuVER08	ZfuVER08	GCA_034530535.2	SAMN37356891	PRJNA1014740		cycad coralloid root, plant 2
+GCA_034530795_Nostoc_sp._DedQUE12a	Nostoc sp. DedQUE12a	DedQUE12a	GCA_034530795.1	SAMN37356876	PRJNA1014740		cycad coralloid root, plant 11, MAG a
+GCA_034530755_Nostoc_sp._DedSLP05	Nostoc sp. DedSLP05	DedSLP05	GCA_034530755.2	SAMN37356881	PRJNA1014740		cycad coralloid root, plant 4
+GCA_034931985_Halotia_wernerae_UHCC_0503	Halotia wernerae UHCC 0503	UHCC 0503	GCA_034931985.1	SAMN39054823	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+GCF_029953635_Halotia_branconii_CENA392	Halotia branconii CENA392	CENA392	GCF_029953635.1	SAMN34417987	PRJNA962858		Whale bone on the intertidal seashore of Punta Plaza, Antarctica
+GCF_963923915_Nodularia_chucula_CCY0103	Nodularia chucula CCY0103	Nodularia chucula CCY 0103	GCF_963923915.1	SAMEA115107834	PRJEB67822		Not available in retrieved metadata
+GCA_035638855_Nodularia_sp._in_cyanobacteria	Nodularia sp. (in: cyanobacteria)	SMAG_U11082	GCA_035638855.1	SAMN37946559	PRJNA983538		soil
+GCA_022241785_Cyanocohniella_sp._LLY	Cyanocohniella sp. LLY	LLY	GCA_022241785.1	SAMN25755438	PRJNA804195		Llayta
+GCA_963706595_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_963706595.1	SAMEA114811219	PRJEB58634		soil
+GCF_963920885_Anabaena_sp._CCY_0017	Anabaena sp. CCY 0017	Anabaena CCY 0017	GCF_963920885.1	SAMEA114538406	PRJEB67822		Not available in retrieved metadata
+GCF_028328995_Nodularia_spumigena_CS-584	Nodularia spumigena CS-584	CS-584	GCF_028328995.1	SAMN32758807	PRJNA924361	Culture-derived genome	freshwater
+GCF_963903195_Nodularia_spumigena	Nodularia spumigena		GCF_963903195.1	SAMEA115019029	PRJEB71012		Not available in retrieved metadata
+GCF_022376295_Nodularia_sphaerocarpa_UHCC_0038	Nodularia sphaerocarpa UHCC 0038	UHCC 0038	GCF_022376295.1	SAMN15769246	PRJNA656133	Culture-derived genome	Brackish water
+SAMN06311396__Nodularia_sp015207755	Nodularia sp015207755	SAMN06311396	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_015207755_Nodularia_sp._LEGE_06071	Nodularia sp. LEGE 06071	LEGE 06071	GCF_015207755.1	SAMN16351720	PRJNA667061	Culture-derived genome	mesotidal zone, benthic
+GCF_002218065_Nodularia_sp._NIES-3585	Nodularia sp. NIES-3585	NIES-3585	GCF_002218065.1	SAMD00079814	PRJDB5665		Not available in retrieved metadata
+GCF_000169135_Nodularia_spumigena_CCY9414	Nodularia spumigena CCY9414	CCY9414	GCF_000169135.1	SAMN02436091	PRJNA13447		Not available in retrieved metadata
+GCA_007692755_Nodularia_sp._in_cyanobacteria	Nodularia sp. (in: cyanobacteria)	LCM1.Bin15	GCA_007692755.1	SAMN10237345	PRJNA377096		alkaline salt lake
+GCF_034931045_Nodularia_sp._UHCC_0506	Nodularia sp. UHCC 0506	UHCC 0506	GCF_034931045.1	SAMN39054830	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+GCF_034931085_Nodularia_harveyana_UHCC-0300	Nodularia harveyana UHCC-0300	UHCC-0300	GCF_034931085.1	SAMN39054829	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+GCF_963920855_Nostoc_sp._CCY0012	Nostoc sp. CCY0012	Nostoc CCY 0012	GCF_963920855.1	SAMEA114538415	PRJEB67822		Not available in retrieved metadata
+GCF_963920895_Anabaena_sp._CCY_9613	Anabaena sp. CCY 9613	Anabaena CCY 9613	GCF_963920895.1	SAMEA114538408	PRJEB67822		Not available in retrieved metadata
+GCA_052692605_Nodularia_sp._CChRGM_3473	Nodularia sp. CChRGM 3473	CChRGM 3473	GCA_052692605.1	SAMN42535381	PRJNA1136538		Unicyanobacterial enriched culture in BG11 medium
+GCF_015245355_Anabaenopsis_elenkinii_CCIBt3563	Anabaenopsis elenkinii CCIBt3563	CCIBt3563	GCF_015245355.1	SAMN16436387	PRJNA669134	Culture-derived genome	Soda lake water
+GCF_041928555_Umezakia_ovalisporum_BLCC-F215	Umezakia ovalisporum BLCC-F215	BLCC-F215	GCF_041928555.1	SAMN43514928	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+GCA_015207155_Nostocales_cyanobacterium_LEGE_11386	Nostocales cyanobacterium LEGE 11386	LEGE 11386	GCA_015207155.1	SAMN16351749	PRJNA667061	Culture-derived genome	intertidal zone, on a marine sponge
+GCA_019358915_Trichormus_sp._ATA11-4-KO1	Trichormus sp. ATA11-4-KO1	ATA11-4-KO1	GCA_019358915.1	SAMN19065595	PRJNA727914; PRJNA688935		soil, at the bottom of a wash with some plants
+GCF_015207795_Cuspidothrix_issatschenkoi_LEGE_03284	Cuspidothrix issatschenkoi LEGE 03284	LEGE 03284	GCF_015207795.1	SAMN16351716	PRJNA667061	Culture-derived genome	water, dam reservoir
+GCA_046045965_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	bin.16	GCA_046045965.1	SAMN37154733	PRJNA946291		river surface water
+SRR23126175_bin28__Dolichospermum_flosaquae	Dolichospermum flosaquae	SRR23126175_bin28	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_900299285_Anabaena_sp._54	Anabaena sp. 54	AM_0902	GCA_900299285.1	SAMEA104651816	PRJEB25176		Not available in retrieved metadata
+GCF_000426905_Dolichospermum_circinale_AWQC131C	Dolichospermum circinale AWQC131C	AWQC131C	GCF_000426905.1	SAMN02471998	PRJNA179122		fresh water from Lake Cargelligo on the Lachlan River
+GCF_000196515_Nostoc_azollae_0708	'Nostoc azollae' 0708	0708	GCF_000196515.1	SAMN02598476	PRJNA30807		Not available in retrieved metadata
+GCF_039871975_Trichormus_azollae_HNT15244	Trichormus azollae HNT15244	HNT15244	GCF_039871975.1	SAMN40996755	PRJNA1101566		leaf pocket
+GCA_936914905_uncultured_Trichormus_sp.	uncultured Trichormus sp.		GCA_936914905.1	SAMEA13911891	PRJEB51079; PRJEB51083		plant metagenome
+GCA_037131225_Nostocales_cyanobacterium_ELA583	Nostocales cyanobacterium ELA583	ELA583	GCA_037131225.1	SAMN37320865	PRJNA1003647		lake water column
+GCA_031376645_Dolichospermum_sp._OTE_75_concoct_329_sub	Dolichospermum sp. OTE_75_concoct_329_sub	OTE_75_concoct_329_sub	GCA_031376645.1	SAMN29838717	PRJNA808857		stream sediment
+GCA_017346835_Dolichospermum_sp._DL01	Dolichospermum sp. DL01	DL01	GCA_017346835.1	SAMN14448371	PRJNA612507		freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter
+GCF_000789435_Aphanizomenon_flos-aquae_2012_KM1_D3	Aphanizomenon flos-aquae 2012/KM1/D3	2012/KM1/D3	GCF_000789435.1	SAMN02954153	PRJNA257725		Lagoon
+GCA_903848645_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_903848645.1	SAMEA6946765	PRJEB38681		pond
+GCF_014698735_Anabaena_catenula_FACHB-362	Anabaena catenula FACHB-362	FACHB-362	GCF_014698735.1	SAMN13702655	PRJNA598298		not applicable
+GCF_003991935_Trichormus_variabilis_SAG_1403-4b	Trichormus variabilis SAG 1403-4b	SAG 1403-4b	GCF_003991935.1	SAMN10102198	PRJNA492407	Culture-derived genome	missing
+GCF_008121535_Dolichospermum_sp._UHCC_0315A	Dolichospermum sp. UHCC 0315A	UHCC 0315A	GCF_008121535.1	SAMN05967626	PRJNA377208		Gulf of Finland
+GCF_028329755_Dolichospermum_circinale_CS-547	Dolichospermum circinale CS-547	CS-547	GCF_028329755.1	SAMN32758792	PRJNA924361	Culture-derived genome	freshwater
+GCF_028330815_Dolichospermum_lemmermannii_CS-548	Dolichospermum lemmermannii CS-548	CS-548	GCF_028330815.1	SAMN32758793	PRJNA924361	Culture-derived genome	freshwater
+MOTU40_028737__Dolichospermum	MOTU40_028737__Dolichospermum	MOTU40_028737	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_028658455_Dolichospermum_sp._ST_sed9	Dolichospermum sp. ST_sed9	ST_sed9	GCA_028658455.1	SAMN23838758	PRJNA787667		10 single cells amplified by MDA; cell type akinete, from sediment
+GCF_001672255_Anabaena_sp._AL09	Anabaena sp. AL09	missing	GCF_001672255.1	SAMN04028827	PRJNA294801		non-pure culture
+GCF_000312705_Anabaena_sp._90	Anabaena sp. 90	90	GCF_000312705.1	SAMN02604187	PRJNA30803		Not available in retrieved metadata
+GCF_002368115_Dolichospermum_compactum_NIES-806	Dolichospermum compactum NIES-806	NIES-806	GCF_002368115.1	SAMD00079802	PRJDB5665		Not available in retrieved metadata
+GCA_030336445_Aphanizomenon_gracile_PMC627.10	Aphanizomenon gracile PMC627.10	PMC627.10	GCA_030336445.1	SAMN33018649	PRJNA693796		freshwater lake
+GCF_015207875_Dolichospermum_sp._LEGE_00240	Dolichospermum sp. LEGE 00240	LEGE 00240	GCF_015207875.1	SAMN16351712	PRJNA667061	Culture-derived genome	water sample
+SRR19851457_bin50__Dolichospermum	SRR19851457_bin50__Dolichospermum	SRR19851457_bin50	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_030336385_Aphanizomenon_gracile_PMC644.10	Aphanizomenon gracile PMC644.10	PMC644.10	GCA_030336385.1	SAMN33018651	PRJNA693796		freshwater lake
+GCA_017355425_Dolichospermum_sp._DET69	Dolichospermum sp. DET69	DET69	GCA_017355425.1	SAMN10985291	PRJNA523639		freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter
+GCF_009711975_Anabaena_sp._UHCC_0204	Anabaena sp. UHCC 0204	UHCC 0204	GCF_009711975.1	SAMN12084250	PRJNA549375	Culture-derived genome	Brackish water
+GCA_046343675_Aphanizomenon_sp.	Aphanizomenon sp.	samp_2141_concoct_220	GCA_046343675.1	SAMN45874769	PRJNA1190886		lake water
+GCF_014697315_Aphanizomenon_flos-aquae_FACHB-1171	Aphanizomenon flos-aquae FACHB-1171	FACHB-1171	GCF_014697315.1	SAMN13702709	PRJNA598298		freshwater
+GCA_001593825_Aphanizomenon_flos-aquae_UKL13-PB	Aphanizomenon flos-aquae UKL13-PB	UKL13-PB	GCA_001593825.2	SAMN04495916	PRJNA312233		UKL13 co-culture; a single cyanobacterial colony from a depth-integrated water sample grown as a non-axenic culture
+SRR10955999-bin100__Dolichospermum_flosaquae	Dolichospermum flosaquae	SRR10955999-bin100	Not resolved	Not resolved	Not resolved		Not resolved
+SRR13150746_bin3__Dolichospermum_flosaquae	Dolichospermum flosaquae	SRR13150746_bin3	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000426925_Dolichospermum_circinale_AWQC310F	Dolichospermum circinale AWQC310F	AWQC310F	GCF_000426925.1	SAMN02471999	PRJNA179123		fresh water
+GCF_028331045_Dolichospermum_circinale_CS-1225	Dolichospermum circinale CS-1225	CS-1225	GCF_028331045.1	SAMN32758771	PRJNA924361	Culture-derived genome	freshwater
+GCA_046080125_Cuspidothrix_sp.	Cuspidothrix sp.	samp_4446_concoct_778	GCA_046080125.1	SAMN41712095	PRJNA1119566		lake water
+GCA_046080565_Cuspidothrix_sp.	Cuspidothrix sp.	samp_4445_semibin_421	GCA_046080565.1	SAMN41712073	PRJNA1119566		lake water
+GCF_900185595_Calothrix_rhizosoleniae_SC01	Calothrix rhizosoleniae SC01		GCF_900185595.1	SAMEA94537168	PRJEB19506		Not available in retrieved metadata
+MOTU40_115252__Richelia	MOTU40_115252__Richelia	MOTU40_115252	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000350105_Richelia_intracellularis_HH01	Richelia intracellularis HH01	HH01	GCF_000350105.1	SAMEA2272692	PRJEA104979		Not available in retrieved metadata
+GCMeta_01252967__Richelia_intracellularis	Richelia intracellularis	GCMeta_01252967	Not resolved	Not resolved	Not resolved		Not resolved
+SAMN05157460__Fischerella_thermalis	Fischerella thermalis	SAMN05157460	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_002896875_Nostoc_sp._CENA543	Nostoc sp. CENA543	CENA543	GCF_002896875.1	SAMN07604078	PRJNA401388	Culture-derived genome	Brazilian saline-alkaline lake
+GCA_015272215_Rivularia_sp._T60_A2020_040	Rivularia sp. T60_A2020_040	T60_A2020_040	GCA_015272215.1	SAMN15062755	PRJNA635751		non-acidic hot spring microbial mat
+GCA_965234645_Rivularia_sp._in_cyanobacteria	Rivularia sp. (in: cyanobacteria)		GCA_965234645.1	SAMEA117660976	PRJEB85681; PRJEB85675; PRJEB43743; PRJEB43745; PRJNA533106		Lichen: Lichina confinis
+GCA_041737305_Rivularia_sp._in_cyanobacteria	Rivularia sp. (in: cyanobacteria)	JTS-AC370	GCA_041737305.1	SAMN41306657	PRJNA1080596		biofilm from active travertine-forming spring
+SRR12687280_bin126__LEGE-06147	SRR12687280_bin126__LEGE-06147	SRR12687280_bin126	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_047901__JAAURB01	MOTU40_047901__JAAURB01	MOTU40_047901	Not resolved	Not resolved	Not resolved		Not resolved
+MAG202304_SRR17933193_bin43__Planktothrix	MAG202304_SRR17933193_bin43__Planktothrix	MAG202304_SRR17933193_bin43	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_012034655_Leptolyngbyaceae_cyanobacterium_CSU_1_3	Leptolyngbyaceae cyanobacterium CSU_1_3	CSU_1_3	GCA_012034655.1	SAMN14376443	PRJNA612530		Stromatolite
+SemiBins2_SRR19097879_37__JAFAVL01	SemiBins2_SRR19097879_37__JAFAVL01	SemiBins2_SRR19097879_37	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_029891665_Anabaenopsis_sp._FSS-46	Anabaenopsis sp. FSS-46	FSS-46	GCF_029891665.1	SAMN30182735	PRJNA867014	Culture-derived genome	Not available in retrieved metadata
+GCA_903912325_uncultured_Nodularia_sp.	uncultured Nodularia sp.		GCA_903912325.1	SAMEA6950386	PRJEB38681		lake water
+GCF_028331085_Anabaena_sp._CS-542_02	Anabaena sp. CS-542/02	CS-542/02	GCF_028331085.1	SAMN32758790	PRJNA924361	Culture-derived genome	freshwater
+GCF_028331025_Anabaenopsis_arnoldii_strain_CS-1033	Anabaenopsis arnoldii	CS-1033	GCF_028331025.1	SAMN32758767	PRJNA924361	Culture-derived genome	freshwater
+GCA_903869355_uncultured_Nodularia_sp.	uncultured Nodularia sp.		GCA_903869355.1	SAMEA6946061	PRJEB38681		lake water
+SRR9061359_bin33__Anabaenopsis_arnoldii	Anabaenopsis arnoldii	SRR9061359_bin33	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_001623485_Nodularia_spumigena_CENA596	Nodularia spumigena CENA596	CENA596	GCF_001623485.1	SAMN04570624	PRJNA315832	Culture-derived genome	shrimp pond
+GCF_028328945_Nodularia_spumigena_CS-588_02	Nodularia spumigena CS-588/02	CS-588/02	GCF_028328945.1	SAMN32758814	PRJNA924361	Culture-derived genome	freshwater
+GCF_029891655_Umezakia_ovalisporum_TAC611	Umezakia ovalisporum TAC611	TAC611	GCF_029891655.1	SAMN30182733	PRJNA867014	Culture-derived genome	Not available in retrieved metadata
+GCF_029891735_Chrysosporum_bergii_ANA360D	Chrysosporum bergii ANA360D	ANA360D	GCF_029891735.1	SAMN30182734	PRJNA867014	Culture-derived genome	Not available in retrieved metadata
+GCF_005402885_Sphaerospermopsis_reniformis_strain_NIES-1949	Sphaerospermopsis reniformis	NIES-1949	GCF_005402885.1	SAMD00156906	PRJDB7814		Not available in retrieved metadata
+GCF_012583345_Cylindrospermopsis_raciborskii_LB2897	Cylindrospermopsis raciborskii LB2897	LB2897	GCF_012583345.1	SAMN12190206	PRJNA552339		freshwater
+GCF_013867395_Cylindrospermopsis_raciborskii_CS-506_D	Cylindrospermopsis raciborskii CS-506_D	CS-506_D	GCF_013867395.1	SAMN11811676	PRJNA544127	Culture-derived genome	culture adaptation of the original strain CS-506 available from the culture collection ANACC<AUS>:CS-506 originally isolated from a water reservoir
+GCF_013867415_Cylindrospermopsis_raciborskii_CS-506_A	Cylindrospermopsis raciborskii CS-506_A	CS-506_A	GCF_013867415.1	SAMN11811673	PRJNA544127	Culture-derived genome	culture adaptation of the original strain CS-506 available from the culture collection ANACC<AUS>:CS-506 originally isolated from a water reservoir
+GCF_001672085_Anabaena_sp._AL93	Anabaena sp. AL93	AL93	GCF_001672085.1	SAMN04028823	PRJNA294801		non-pure culture
+GCF_009712065_Aphanizomenon_sp._UHCC_0183	Aphanizomenon sp. UHCC 0183	UHCC 0183	GCF_009712065.1	SAMN12084337	PRJNA549389	Culture-derived genome	Brackish water
+GCF_000521175_Aphanizomenon_flos-aquae_NIES-81	Aphanizomenon flos-aquae NIES-81	NIES-81	GCF_000521175.1	SAMN02485748	PRJNA232534		Lake Kasumigaura, Japan
+GCF_018447775_Dolichospermum_sp._WA123	Dolichospermum sp. WA123	WA123	GCF_018447775.1	SAMN14448378	PRJNA612507		freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter
+GCA_017346795_Dolichospermum_sp._UKL201	Dolichospermum sp. UKL201	UKL201	GCA_017346795.1	SAMN14448353	PRJNA612507		freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter
+GCA_030336405_Aphanizomenon_gracile_PMC649.10	Aphanizomenon gracile PMC649.10	PMC649.10	GCA_030336405.1	SAMN33018652	PRJNA693796		freshwater lake
+GCA_037130745_Nostocales_cyanobacterium_ELA608	Nostocales cyanobacterium ELA608	ELA608	GCA_037130745.1	SAMN37320195	PRJNA1003647		freshwater from boreal shield lake
+SRR6200753_bin16__Dolichospermum_flosaquae	Dolichospermum flosaquae	SRR6200753_bin16	Not resolved	Not resolved	Not resolved		Not resolved
+SRR6200758_bin17__Dolichospermum_flosaquae	Dolichospermum flosaquae	SRR6200758_bin17	Not resolved	Not resolved	Not resolved		Not resolved
+SRR6200757_bin13__Dolichospermum_flosaquae	Dolichospermum flosaquae	SRR6200757_bin13	Not resolved	Not resolved	Not resolved		Not resolved
+SRR6201021_bin16__Dolichospermum_flosaquae	Dolichospermum flosaquae	SRR6201021_bin16	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_017355665_Aphanizomenon_flos-aquae_CP01	Aphanizomenon flos-aquae CP01	CP01	GCA_017355665.1	SAMN14448359	PRJNA612507		freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter
+GCF_034931405_Anabaena_sp._UHCC_0451	Anabaena sp. UHCC 0451	UHCC 0451	GCF_034931405.1	SAMN39054822	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+GCF_014696825_Anabaena_sphaerica_FACHB-251	Anabaena sphaerica FACHB-251	FACHB-251	GCF_014696825.1	SAMN13702730	PRJNA598298		Terrestrial
+GCF_047275885_Anabaena_azotica_SJ-1	Anabaena azotica SJ-1	SJ-1	GCF_047275885.1	SAMN46221960	PRJNA1209435		Not available in retrieved metadata
+GCF_000175835_Cylindrospermopsis_raciborskii_CS-505	Cylindrospermopsis raciborskii CS-505	CS-505	GCF_000175835.1	SAMN02470243	PRJNA40109		Not available in retrieved metadata
+GCF_022496815_Cylindrospermopsis_raciborskii_CHAB3438	Cylindrospermopsis raciborskii CHAB3438	CHAB3438	GCF_022496815.1	SAMN13705052	PRJNA598401		freshwater lake
+GCF_002154725_Nostoc_sp._106C	Nostoc sp. 106C	106C	GCF_002154725.1	SAMN06208961	PRJNA360305		coralloid roots
+MaxBin2_SRR25252693.006__Aulosira	MaxBin2_SRR25252693.006__Aulosira	MaxBin2_SRR25252693.006	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_002154695_Nostoc_sp._T09	Nostoc sp. T09	T09	GCF_002154695.1	SAMN06208854	PRJNA360300		Coralloid roots
+GCA_019359325_Mojavia_pulchra_JT2-VF2	Mojavia pulchra JT2-VF2	JT2-VF2	GCA_019359325.1	SAMN19065570	PRJNA727914; PRJNA688935		desert soil
+GCA_019359515_Desmonostoc_vinosum_HA7617-LM4	Desmonostoc vinosum HA7617-LM4	HA7617-LM4	GCA_019359515.1	SAMN19065558	PRJNA727914; PRJNA688935		cave wall
+GCF_011769525_Tolypothrix_sp._PCC_7910	Tolypothrix sp. PCC 7910	PCC 7910	GCF_011769525.1	SAMN14299416	PRJNA610494; PRJNA610153	Culture-derived genome	missing
+GCA_019359495_Goleter_apudmare_HA4340-LM2	Goleter apudmare HA4340-LM2	HA4340-LM2	GCA_019359495.1	SAMN19065561	PRJNA727914; PRJNA688935		cave wall, scraping from roof of cave near entrance
+GCA_034530575_Aulosira_sp._ZfuCHP01	Aulosira sp. ZfuCHP01	ZfuCHP01	GCA_034530575.1	SAMN37356889	PRJNA1014740		cycad coralloid root, plant 1
+GEMOTU_01484__Cylindrospermum	GEMOTU_01484__Cylindrospermum	GEMOTU_01484	Not resolved	Not resolved	Not resolved		Not resolved
+Metabat2_SRR32070979_bin.8__Desmonostoc	Metabat2_SRR32070979_bin.8__Desmonostoc	Metabat2_SRR32070979_bin.8	Not resolved	Not resolved	Not resolved		Not resolved
+GEMOTU_14417__GEMOTU_14417	GEMOTU_14417__GEMOTU_14417	GEMOTU_14417	Not resolved	Not resolved	Not resolved		Not resolved
+GEMOTU_17643__GEMOTU_17643	GEMOTU_17643__GEMOTU_17643	GEMOTU_17643	Not resolved	Not resolved	Not resolved		Not resolved
+MetaBAT2_SRR32070981_bin.22__MetaBAT2_SRR32070981_bin.22	MetaBAT2_SRR32070981_bin.22__MetaBAT2_SRR32070981_bin.22	MetaBAT2_SRR32070981_bin.22	Not resolved	Not resolved	Not resolved		Not resolved
+TPMCOTU_05971__Trichormus_sp022063185	Trichormus sp022063185	TPMCOTU_05971	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_036919515_Nostoc_sp.	Nostoc sp.	P10246 bin 4	GCF_036919515.1	SAMN39504449	PRJNA1066398		Protopannaria pezizoides
+GCF_036917795_Nostoc_sp.	Nostoc sp.	P8857 bin 2	GCF_036917795.1	SAMN39504527	PRJNA1066398		Peltigera borealis
+GCF_036917495_Nostoc_sp.	Nostoc sp.	P12573 bin 6	GCF_036917495.1	SAMN39504470	PRJNA1066398		Nephroma antarcticum
+GCA_964242965_uncultured_Calothrix_sp.	uncultured Calothrix sp.		GCA_964242965.1	SAMEA115955004	PRJEB77567		lichen metagenome
+GCF_014698825_Richelia_sinica_FACHB-800	Richelia sinica FACHB-800	FACHB-800	GCF_014698825.1	SAMN13702652	PRJNA598298		freshwater
+GCF_014698475_Nostoc_spongiaeforme_FACHB-130	Nostoc spongiaeforme FACHB-130	FACHB-130	GCF_014698475.1	SAMN13702670	PRJNA598298		not applicable
+GCF_014697425_Nostoc_sp._FACHB-110	Nostoc sp. FACHB-110	FACHB-110	GCF_014697425.1	SAMN13702703	PRJNA598298		freshwater
+GCA_001698435_Nostoc_sp._MBR_210	Nostoc sp. MBR 210	missing	GCA_001698435.1	SAMN05416363	PRJNA329640		co-culture originated from a tropical freshwater lake
+GCF_014697615_Nostoc_sp._FACHB-280	Nostoc sp. FACHB-280	FACHB-280	GCF_014697615.1	SAMN13702694	PRJNA598298		Terrestrial
+GCF_047261795_Nostoc_piscinale_EBDCYA_7	Nostoc piscinale EBDCYA 7	EBDCYA 7	GCF_047261795.1	SAMN43440575	PRJNA1155038		water from rice field
+GCF_014697625_Anabaena_azotica_FACHB-119	Anabaena azotica FACHB-119	FACHB-119	GCF_014697625.1	SAMN13702691	PRJNA598298		Terrestrial
+SAMN03165654__Trichormus	SAMN03165654__Trichormus	SAMN03165654	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_021596505_Nostoc_sp._CMAA1605	Nostoc sp. CMAA1605	CMAA1605	GCF_021596505.1	SAMN08049055	PRJNA419303	Culture-derived genome	Amazon river
+GCF_001548375_Nostoc_sp._NIES-3756	Nostoc sp. NIES-3756	NIES-3756	GCF_001548375.1	SAMD00042755	PRJDB4341		Not available in retrieved metadata
+GCF_019976755_Nostoc_sp._MS1	Nostoc sp. MS1	MS1	GCF_019976755.1	SAMD00242822	PRJDB10449		Not available in retrieved metadata
+GCF_014697105_Anabaena_subtropica_FACHB-260	Anabaena subtropica FACHB-260	FACHB-260	GCF_014697105.1	SAMN13702718	PRJNA598298		Terrestrial
+GCF_014697455_Nostoc_sp._FACHB-145	Nostoc sp. FACHB-145	FACHB-145	GCF_014697455.1	SAMN13702701	PRJNA598298		freshwater
+GCF_001298445_Nostoc_piscinale_CENA21	Nostoc piscinale CENA21	CENA21	GCF_001298445.1	SAMN03796038	PRJNA288507		Not available in retrieved metadata
+GCA_003990705_Nostoc_sp._HK-01_strain_NIES-2109	Nostoc sp. HK-01	NIES-2109	GCA_003990705.1	SAMD00079807	PRJDB5665		Not available in retrieved metadata
+GCF_015206815_Fortiea_sp._LEGE_XX443	Fortiea sp. LEGE XX443	LEGE XX443	GCF_015206815.1	SAMN16351764	PRJNA667061	Culture-derived genome	missing
+GCA_020829595_Nostoc_sp._CHAB_5844	Nostoc sp. CHAB 5844	CHAB 5844	GCA_020829595.1	SAMN16418218	PRJNA668662		terrestrial
+GCA_018993265_Nostoc_sp._TH1S01	Nostoc sp. TH1S01	TH1S01	GCA_018993265.1	SAMN18578404	PRJNA718890		microbial mat from rice patty soil
+GCF_002367975_Anabaenopsis_circularis_NIES-21	Anabaenopsis circularis NIES-21	NIES-21	GCF_002367975.1	SAMD00079795	PRJDB5665		Not available in retrieved metadata
+GCF_015207705_Nostoc_sp._LEGE_06077	Nostoc sp. LEGE 06077	LEGE 06077	GCF_015207705.1	SAMN16351721	PRJNA667061	Culture-derived genome	water sample, on the estuary shore
+GCF_000316625_Nostoc_sp._PCC_7107	Nostoc sp. PCC 7107	PCC 7107	GCF_000316625.1	SAMN02261332	PRJNA158705; PRJNA166933	Culture-derived genome	shallow pond
+GCF_013393945_Nostoc_sp._TCL26-01	Nostoc sp. TCL26-01	TCL26-01	GCF_013393945.1	SAMN11588057	PRJNA534312		Not available in retrieved metadata
+GCA_015296085_Trichormus_sp._M33_DOE_039	Trichormus sp. M33_DOE_039	M33_DOE_039	GCA_015296085.1	SAMN15062734	PRJNA635751		hot spring sediment
+GCF_001597855_Anabaena_sp._CA___ATCC_33047	Anabaena sp. CA = ATCC 33047	ATCC 33047	GCF_001597855.1	SAMN04536551	PRJNA314517	Culture-derived genome	Estuarial environment
+GCF_000009705_Nostoc_sp._PCC_7120___FACHB-418	Nostoc sp. PCC 7120 = FACHB-418	PCC 7120	GCF_000009705.1	SAMD00061094	PRJNA244; PRJDB20515; PRJNA533106		Not available in retrieved metadata
+GCF_963920945_Anabaena_sp._CCY_9402-a	Anabaena sp. CCY 9402-a	Anabaena CCY 9402-a	GCF_963920945.1	SAMEA114538407	PRJEB67822		Not available in retrieved metadata
+GCF_034931465_Anabaena_sp._UHCC_0399	Anabaena sp. UHCC 0399	UHCC 0399	GCF_034931465.1	SAMN39054821	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+GCF_022063185_Nostoc_sp._UHCC_0870	Nostoc sp. UHCC 0870	UHCC 0870	GCF_022063185.1	SAMN25514200	PRJNA802184	Culture-derived genome	Brackish water, Varlaxudden, Baltic Sea
+GCF_014696625_Nostoc_parmelioides_FACHB-3921	Nostoc parmelioides FACHB-3921	FACHB-3921	GCF_014696625.1	SAMN13702739	PRJNA598298		Terrestrial
+GCF_014696905_Nostoc_sp._FACHB-190	Nostoc sp. FACHB-190	FACHB-190	GCF_014696905.1	SAMN13702728	PRJNA598298		freshwater
+GCF_000734895_Calothrix_sp._336_3	Calothrix sp. 336/3	336/3	GCF_000734895.2	SAMN02909965	PRJNA255071	Culture-derived genome	Not available in retrieved metadata
+GCA_019359035_Scytonematopsis_contorta_HA4267-MV1	Scytonematopsis contorta HA4267-MV1	HA4267-MV1	GCA_019359035.1	SAMN19065585	PRJNA727914; PRJNA688935		mud from waterfall
+GCA_015272395_Calothrix_sp._C42_A2020_038	Calothrix sp. C42_A2020_038	C42_A2020_038	GCA_015272395.1	SAMN15062727	PRJNA635751		non-acidic hot spring microbial mat
+GCA_019359675_Calothrix_sp._FI2-JRJ7	Calothrix sp. FI2-JRJ7	FI2-JRJ7	GCA_019359675.1	SAMN19065553	PRJNA727914; PRJNA688935		granitic desert soil
+GCF_002368455_Calothrix_sp._NIES-4071	Calothrix sp. NIES-4071	NIES-4071	GCF_002368455.1	SAMD00081178	PRJDB5665		Not available in retrieved metadata
+GCA_001904745_Calothrix_sp._HK-06	Calothrix sp. HK-06	HK-06	GCA_001904745.1	SAMN05890688	PRJNA347433	Culture-derived genome	Not available in retrieved metadata
+GCF_003991905_Dulcicalothrix_desertica_PCC_7102	Dulcicalothrix desertica PCC 7102	PCC 7102	GCF_003991905.1	SAMN10102197	PRJNA492407	Culture-derived genome	missing
+GCA_013214565_Richelia_sp.	Richelia sp.	DT_104	GCA_013214565.1	SAMN14675792	PRJNA482655		ocean water from marine abyssalpelagic zone
+GCA_000332255_cyanobacterium_PCC_7702	cyanobacterium PCC 7702	PCC 7702	GCA_000332255.1	SAMN02261344	PRJNA158823; PRJNA166933	Culture-derived genome	Not available in retrieved metadata
+GCF_000317265_Chlorogloeopsis_fritschii_PCC_9212	Chlorogloeopsis fritschii PCC 9212	PCC 9212	GCF_000317265.1	SAMN02469882	PRJNA104963		water, thermal spring
+GCF_030381805_Chlorogloeopsis_sp._ULAP01	Chlorogloeopsis sp. ULAP01	ULAP01	GCF_030381805.1	SAMN35824928	PRJNA986306	Culture-derived genome	Copper Mine Tailings
+SemiBin2_SRR30711661_0__Scytonema	SemiBin2_SRR30711661_0__Scytonema	SemiBin2_SRR30711661_0	Not resolved	Not resolved	Not resolved		Not resolved
+MetaBAT2_SRR30711729_bin.3__Scytonema	MetaBAT2_SRR30711729_bin.3__Scytonema	MetaBAT2_SRR30711729_bin.3	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000346485_Scytonema_hofmannii_PCC_7110	Scytonema hofmannii PCC 7110	PCC 7110	GCF_000346485.2	SAMN02469880	PRJNA157363		Crystal Cave, a limestone cave
+GCF_000760695_Tolypothrix_bouteillei_VB521301	Tolypothrix bouteillei VB521301	VB521301	GCF_000760695.4	SAMN09809659	PRJNA242379		stone monuments
+GCF_045865695_Scytonema_hankhaensis_NUACC26	Scytonema hankhaensis NUACC26	NUACC26	GCF_045865695.1	SAMD00769463	PRJDB17940		wet soil
+GCF_002368315_Fischerella_sp._NIES-4106	Fischerella sp. NIES-4106	NIES-4106	GCF_002368315.1	SAMD00081167	PRJDB5665		Not available in retrieved metadata
+GCF_041928655_Pelatocladus_sp._BLCC-F211	Pelatocladus sp. BLCC-F211	BLCC-F211	GCF_041928655.1	SAMN43514927	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+SRR13020435_bin2__Fischerella	SRR13020435_bin2__Fischerella	SRR13020435_bin2	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_088664__Fischerella	MOTU40_088664__Fischerella	MOTU40_088664	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000317205_Fischerella_muscicola_PCC_7414	Fischerella muscicola PCC 7414	PCC 7414	GCF_000317205.1	SAMN02469884	PRJNA104967		water, hot spring
+GCF_000231365_Fischerella_thermalis_JSC-11	Fischerella thermalis JSC-11	JSC-11	GCF_000231365.1	SAMN02256526	PRJNA61093	Culture-derived genome	Not available in retrieved metadata
+GCF_002870785_Fischerella_thermalis_CCMEE_5201	Fischerella thermalis CCMEE 5201	CCMEE 5201	GCF_002870785.1	SAMN07256016	PRJNA322208	Culture-derived genome	hot spring
+GCA_000317245_Fischerella_muscicola_SAG_1427-1___PCC_73103	Fischerella muscicola SAG 1427-1 = PCC 73103	SAG 1427-1 = PCC 73103	GCA_000317245.1	SAMN02469881	PRJNA104965		soil, rice field
+GCF_032393985_Fischerella_sp._JS2	Fischerella sp. JS2	JS2	GCF_032393985.1	SAMN37483216	PRJNA1019399	Culture-derived genome	Not available in retrieved metadata
+GCA_024239075_Fischerella_sp._CENA71	Fischerella sp. CENA71	CENA71	GCA_024239075.1	SAMN29220776	PRJNA851963		non-axenic culture of a cyanobacterium and its heterotrophs, obtained from an Amazon rainforest soil sample
+GCA_000447295_Fischerella_sp._PCC_9431	Fischerella sp. PCC 9431	PCC 9431	GCA_000447295.1	SAMN02441755	PRJNA158821; PRJNA166933		Not available in retrieved metadata
+Metadecoder_SRR30785880_14__Metadecoder_SRR30785880_14	Metadecoder_SRR30785880_14__Metadecoder_SRR30785880_14	Metadecoder_SRR30785880_14	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000517105_Fischerella_sp._PCC_9605	Fischerella sp. PCC 9605	PCC 9605	GCF_000517105.1	SAMN02597161	PRJNA158819; PRJNA166933	Culture-derived genome	Not available in retrieved metadata
+GCF_030065675_Mastigocoleus_sp._MO_188.B34	Mastigocoleus sp. MO_188.B34	MO_188.B34	GCF_030065675.1	SAMN33830804	PRJNA611818		marine sediment
+GCF_001456025_Mastigocoleus_testarum_BC008	Mastigocoleus testarum BC008	BC008	GCF_001456025.1	SAMN04221293	PRJNA300404		marine shell fragment
+MOTU40_116296__Mastigocoleus	MOTU40_116296__Mastigocoleus	MOTU40_116296	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_963804415_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_963804415.1	SAMEA114814114	PRJEB58634		water
+GCF_963920925_Calothrix_sp._CCY_0018	Calothrix sp. CCY 0018	Calothrix CCY 0018	GCF_963920925.1	SAMEA114538411	PRJEB67822		Not available in retrieved metadata
+GCA_963920865_Calothrix_sp._CCY0202	Calothrix sp. CCY0202	Calothrix CCY 0202	GCA_963920865.1	SAMEA114538412	PRJEB67822		Not available in retrieved metadata
+SRR23898727_bin105__SRR23898727_bin105	SRR23898727_bin105__SRR23898727_bin105	SRR23898727_bin105	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_903880405_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_903880405.1	SAMEA6944671	PRJEB38681		pond
+GEMOTU_13881__Stigonema	GEMOTU_13881__Stigonema	GEMOTU_13881	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_016903675_Stigonema_ocellatum_SAG_48.90___DSM_106950	Stigonema ocellatum SAG 48.90 = DSM 106950	JP211	GCA_016903675.1	SAMN15930533	PRJNA659938		non-axenic culture deposited to culture collection
+GCA_965249805_Stigonema_sp.	Stigonema sp.		GCA_965249805.1	SAMEA117994173	PRJEB88477; PRJEB83734; PRJEB40665; PRJEB43743; PRJEB43745; PRJNA533106; PRJEB43510		Lichen: Ephebe lanata
+GCA_964657905_uncultured_Stigonema_sp.	uncultured Stigonema sp.		GCA_964657905.1	SAMEA117515051	PRJEB76464		Bryophytes in the boreal forest
+GCA_964658145_uncultured_Stigonema_sp.	uncultured Stigonema sp.		GCA_964658145.1	SAMEA117515137	PRJEB76464		Bryophytes in the boreal forest
+GEMOTU_07691__Cyanomargarita	GEMOTU_07691__Cyanomargarita	GEMOTU_07691	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000300115_Tolypothrix_sp._PCC_7601_strain_PCC_7601___UTEX_B_481	Tolypothrix sp. PCC 7601	PCC 7601 = UTEX B 481	GCF_000300115.1	SAMN03450030	PRJNA72337		Not available in retrieved metadata
+GCF_000315585_Fischerella_sp._PCC_9339	Fischerella sp. PCC 9339	PCC 9339	GCF_000315585.1	SAMN02261257	PRJNA159505; PRJNA166933	Culture-derived genome	Not available in retrieved metadata
+GCF_034531155_Nostoc_sp._ChiVER01	Nostoc sp. ChiVER01	ChiVER01	GCF_034531155.1	SAMN37356861	PRJNA1014740		cycad coralloid root, plant 1
+GCF_028623165_Nostoc_sp._UHCC_0926	Nostoc sp. UHCC 0926	UHCC 0926	GCF_028623165.1	SAMN33005007	PRJNA930330		lichen surface
+GCF_036917255_Nostoc_sp.	Nostoc sp.	P2162 bin 10	GCF_036917255.1	SAMN39504494	PRJNA1066398		Peltigera erioderma
+Metadecoder_SRR32070976_14__Nostoc	Metadecoder_SRR32070976_14__Nostoc	Metadecoder_SRR32070976_14	Not resolved	Not resolved	Not resolved		Not resolved
+MetaBAT2_SRR18686407_bin.29__Nostoc	MetaBAT2_SRR18686407_bin.29__Nostoc	MetaBAT2_SRR18686407_bin.29	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_017115095_Nostoc_sp._NMS4	Nostoc sp. NMS4	NMS4	GCF_017115095.1	SAMN14531967	PRJNA616181		lichen thallus
+GCF_036916595_Nostoc_sp.	Nostoc sp.	S67 bin 3	GCF_036916595.1	SAMN39504553	PRJNA1066398		Peltigera borinquensis
+GCF_036917155_Nostoc_sp.	Nostoc sp.	P3034 bin 5	GCF_036917155.1	SAMN39504500	PRJNA1066398		Peltigera occidentalis
+SRR22405854_bin83__Nostoc	SRR22405854_bin83__Nostoc	SRR22405854_bin83	Not resolved	Not resolved	Not resolved		Not resolved
+SRR22405857_bin89__Nostoc	SRR22405857_bin89__Nostoc	SRR22405857_bin89	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_964252385_uncultured_Nostoc_sp.	uncultured Nostoc sp.		GCA_964252385.1	SAMEA115954972	PRJEB77567		lichen metagenome
+GCF_036917715_Nostoc_sp.	Nostoc sp.	P9728 bin 6	GCF_036917715.1	SAMN39504533	PRJNA1066398		Peltigera malacea 2
+MetaDecoder_ERR13292589_3__Nostoc	MetaDecoder_ERR13292589_3__Nostoc	MetaDecoder_ERR13292589_3	Not resolved	Not resolved	Not resolved		Not resolved
+MetaDecoder_ERR13305855_5__Nostoc	MetaDecoder_ERR13305855_5__Nostoc	MetaDecoder_ERR13305855_5	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_036917175_Nostoc_sp.	Nostoc sp.	P2170 bin 4	GCF_036917175.1	SAMN39504496	PRJNA1066398		Peltigera degenii
+GCF_036917875_Nostoc_sp.	Nostoc sp.	P8569 bin 1	GCF_036917875.1	SAMN39504518	PRJNA1066398		Peltigera elisabethae
+GCF_036917955_Nostoc_sp.	Nostoc sp.	P8571 bin 17	GCF_036917955.1	SAMN39504520	PRJNA1066398		Peltigera praetextata
+GCF_001904715_Nostoc_calcicola_FACHB-389	Nostoc calcicola FACHB-389	FACHB-389	GCF_001904715.1	SAMN05890684	PRJNA347433	Culture-derived genome	Not available in retrieved metadata
+GCA_034530655_Nostoc_sp._EkiNYC01	Nostoc sp. EkiNYC01	EkiNYC01	GCA_034530655.2	SAMN37356886	PRJNA1014740		cycad coralloid root, plant 1
+GCF_037619055_Nostoc_punctiforme_UO1	Nostoc punctiforme UO1	UO1	GCF_037619055.1	SAMN30651298	PRJNA876278		Not available in retrieved metadata
+Maxbin2_SRR19097882.009__Hassallia	Maxbin2_SRR19097882.009__Hassallia	Maxbin2_SRR19097882.009	Not resolved	Not resolved	Not resolved		Not resolved
+SemiBins2_SRR13258664_1__Tolypothrix_B	SemiBins2_SRR13258664_1__Tolypothrix_B	SemiBins2_SRR13258664_1	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_029379225_Nostoc_sp._S4	Nostoc sp. S4	S4	GCA_029379225.1	SAMN32614564	PRJNA918780		lichen thallus
+GCF_052692665_Nostoc_sp._DSM_114161	Nostoc sp. DSM 114161	DSM 114161	GCF_052692665.1	SAMN49327728	PRJNA1277286		coralloid root
+GCF_016056305_Amazonocrinis_nigriterrae_CENA67	Amazonocrinis nigriterrae CENA67	CENA67	GCF_016056305.1	SAMN16982918	PRJNA682198		anthropogenic dark earth
+GCA_002368335_Nostoc_sp._NIES-4103	Nostoc sp. NIES-4103	NIES-4103	GCA_002368335.1	SAMD00081169	PRJDB5665		Not available in retrieved metadata
+GCA_034531295_Nostoc_sp._ChiQUE01a	Nostoc sp. ChiQUE01a	ChiQUE01a	GCA_034531295.1	SAMN37356854	PRJNA1014740		cycad coralloid root, plant 1, MAG a
+GCF_034531015_Nostoc_sp._DedQUE03	Nostoc sp. DedQUE03	DedQUE03	GCF_034531015.2	SAMN37356868	PRJNA1014740		cycad coralloid root, plant 3
+GCA_002368035_Nostoc_linckia_NIES-25	Nostoc linckia NIES-25	NIES-25	GCA_002368035.1	SAMD00079798	PRJDB5665		Not available in retrieved metadata
+GCF_014698635_Kamptonema_sp._FACHB-857	Kamptonema sp. FACHB-857	FACHB-857	GCF_014698635.1	SAMN13702661	PRJNA598298		Thermal springs
+Metabat2_SRR19097879_bin.12__JAFAVL01	Metabat2_SRR19097879_bin.12__JAFAVL01	Metabat2_SRR19097879_bin.12	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_72013__BCRBG_72013	BCRBG_72013__BCRBG_72013	BCRBG_72013	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_048595135_Planktothrix_sp.	Planktothrix sp.	FCentRs1_7	GCA_048595135.1	SAMN47125246	PRJNA1222139		Rice straw
+GCF_900009145_Planktothrix_tepida_PCC_9214	Planktothrix tepida PCC 9214		GCF_900009145.1	SAMEA3590990	PRJEB10993		Not available in retrieved metadata
+GCF_014697575_Planktothrix_sp._FACHB-1365	Planktothrix sp. FACHB-1365	FACHB-1365	GCF_014697575.1	SAMN13702695	PRJNA598298		freshwater
+GCF_015207485_Planktothrix_mougeotii_LEGE_06226	Planktothrix mougeotii LEGE 06226	LEGE 06226	GCF_015207485.1	SAMN16351733	PRJNA667061	Culture-derived genome	floating masses, from a secondary decanter tank bank
+GCF_000332335_Kamptonema_formosum_PCC_10802	Kamptonema formosum PCC 10802	PCC 10802	GCF_000332335.1	SAMN02261253	PRJNA158815; PRJNA166933	Culture-derived genome	Not available in retrieved metadata
+GCA_028281965_Candidatus_Gastranaerophilales_bacterium	Candidatus Gastranaerophilales bacterium	PL24a_bin.9	GCA_028281965.1	SAMN29486562	PRJNA857095		Coral skeleton
+BCRBG_72035__DATNQN01	BCRBG_72035__DATNQN01	BCRBG_72035	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_035615515_Phormidium_sp._CCY1219	Phormidium sp. CCY1219	CCY1219	GCF_035615515.1	SAMN22420058	PRJNA772923	Culture-derived genome	Not available in retrieved metadata
+GCA_040220555_Coleofasciculus_sp._C1-SOL-03	Coleofasciculus sp. C1-SOL-03	C1-SOL-03	GCA_040220555.1	SAMN36835453	PRJNA993462		hypersaline pond; non-axenic culture containing Coleofasciculus sp. DSM 104241
+GCA_040219735_Coleofasciculus_sp._G1-WW12-02	Coleofasciculus sp. G1-WW12-02	G1-WW12-02	GCA_040219735.1	SAMN36815371	PRJNA993463		wind flat; non-axenic culture containing Coleofasciculus sp. DSM 104231
+GCA_040226375_Coleofasciculus_sp._G2-EDA-02	Coleofasciculus sp. G2-EDA-02	G2-EDA-02	GCA_040226375.1	SAMN36865162	PRJNA993471		brackish; non-axenic culture containing Coleofasciculus sp. DSM 104234
+GCF_000155555_Coleofasciculus_chthonoplastes_PCC_7420	Coleofasciculus chthonoplastes PCC 7420	PCC 7420	GCF_000155555.1	SAMN02436227	PRJNA19325		Not available in retrieved metadata
+GCA_040222015_Coleofasciculus_chthonoplastes_F2-STO-03	Coleofasciculus chthonoplastes F2-STO-03	F2-STO-03	GCA_040222015.1	SAMN36864955	PRJNA993456		marine sediment; non-axenic culture containing Coleofasciculus chthonoplastes DSM 104242
+GCA_046538975_Coleofasciculus_sp.	Coleofasciculus sp.	D1M13_1	GCA_046538975.1	SAMN35735006	PRJNA847603		Hypersaline lake, pH fluctuating
+GCA_964474785_uncultured_Coleofasciculus_sp.	uncultured Coleofasciculus sp.		GCA_964474785.1	SAMEA117288858	PRJEB82487		microbial mat metagenome
+GCA_040218875_Coleofasciculus_sp._D1-CHI-01	Coleofasciculus sp. D1-CHI-01	D1-CHI-01	GCA_040218875.1	SAMN36814870	PRJNA993444		intertidal; non-axenic culture containing Coleofasciculus sp. DSM 104232
+GCA_040220235_Coleofasciculus_sp._B1-GNL1-01	Coleofasciculus sp. B1-GNL1-01	B1-GNL1-01	GCA_040220235.1	SAMN36833876	PRJNA993446		lagoon; non-axenic culture containing Coleofasciculus sp. DSM 104238
+GCA_001314905_Phormidium_sp._OSCR	Phormidium sp. OSCR	OSCR	GCA_001314905.1	SAMN03785507	PRJNA283228		enrichment culture HLUCC-O from microbial mat sample; contains cyanobacterium Phormidium OSCR and associated heterotrophs
+GCA_007693465_Phormidium_sp._GEM2.Bin31	Phormidium sp. GEM2.Bin31	GEM2.Bin31	GCA_007693465.1	SAMN10237398	PRJNA377096		alkaline salt lake
+GCA_046539975_Phormidium_sp.	Phormidium sp.	D1M06_1	GCA_046539975.1	SAMN35734952	PRJNA847603		Hypersaline lake, pH fluctuating
+GCA_964644215_uncultured_Phormidium_sp.	uncultured Phormidium sp.		GCA_964644215.1	SAMEA117288920	PRJEB82487		microbial mat metagenome
+SPIREOTU_01843799__Sodalinema	SPIREOTU_01843799__Sodalinema	SPIREOTU_01843799	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_009846485_Sodalinema_gerasimenkoae_IPPAS_B-353	Sodalinema gerasimenkoae IPPAS B-353	IPPAS B-353	GCF_009846485.1	SAMN02205029	PRJNA203668		Not available in retrieved metadata
+GCF_023983615_Phormidium_yuhuli_AB48	[Phormidium] yuhuli AB48	AB48	GCF_023983615.1	SAMN28044976	PRJNA834472	Culture-derived genome	Photobioreactor
+GCF_900149785_Phormidium_lacuna_HE10JO	Phormidium lacuna HE10JO		GCF_900149785.1	SAMEA33079168	PRJEB18681		Not available in retrieved metadata
+GCF_046483825_Sodalinema_sp.	Sodalinema sp.	BLK5-1.bin.222	GCF_046483825.1	SAMN37758130	PRJNA1026782		saline lake sediment
+GCA_049974805_Baaleninema_sp.	Baaleninema sp.	E05-001	GCA_049974805.1	SAMN47943634	PRJNA1250554		Sediment from the hot spring
+BCRBG_06929__BCRBG_06929	BCRBG_06929__BCRBG_06929	BCRBG_06929	Not resolved	Not resolved	Not resolved		Not resolved
+GOMCOTU_14642__GOMCOTU_14642	GOMCOTU_14642__GOMCOTU_14642	GOMCOTU_14642	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_027740__MOTU40_027740	MOTU40_027740__MOTU40_027740	MOTU40_027740	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_030068475_Roseofilum_acuticapitatum_BLCC-M154	Roseofilum acuticapitatum BLCC-M154	BLCC-M154	GCF_030068475.1	SAMN32886013	PRJNA926904	Culture-derived genome	marine benthic mats
+GCF_017746785_Roseofilum_sp._Belize_Diploria	Roseofilum sp. Belize Diploria	Belize Diploria	GCF_017746785.1	SAMN18473585	PRJNA647383		cyanobacterial mat on coral surface
+GCF_017746735_Roseofilum_sp._Guam	Roseofilum sp. Guam	Guam	GCF_017746735.1	SAMN18473586	PRJNA647383		cyanobacterial mat on coral surface
+GCA_015207585_Pleurocapsales_cyanobacterium_LEGE_06147	Pleurocapsales cyanobacterium LEGE 06147	LEGE 06147	GCA_015207585.1	SAMN16351729	PRJNA667061	Culture-derived genome	intertidal zone, wave-exposed rock surface scraping
+GCF_035615495_Lyngbya_sp._CCY1209	Lyngbya sp. CCY1209	CCY1209	GCF_035615495.1	SAMN22420057	PRJNA772923	Culture-derived genome	Not available in retrieved metadata
+MetaBAT2_SRR18577831_bin.8__MetaBAT2_SRR18577831_bin.8	MetaBAT2_SRR18577831_bin.8__MetaBAT2_SRR18577831_bin.8	MetaBAT2_SRR18577831_bin.8	Not resolved	Not resolved	Not resolved		Not resolved
+MAG202307_ERR3440693_bin15__Microseira	MAG202307_ERR3440693_bin15__Microseira	MAG202307_ERR3440693_bin15	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_22310__Microseira	BCRBG_22310__Microseira	BCRBG_22310	Not resolved	Not resolved	Not resolved		Not resolved
+MAG202307_ERR3440692_bin12__Microseira	MAG202307_ERR3440692_bin12__Microseira	MAG202307_ERR3440692_bin12	Not resolved	Not resolved	Not resolved		Not resolved
+ERR3440669_bin5__Microseira	ERR3440669_bin5__Microseira	ERR3440669_bin5	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_041929235_Microseira_sp._BLCC-F43	Microseira sp. BLCC-F43	BLCC-F43	GCF_041929235.1	SAMN43549589	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+GCF_020521235_Microseira_wollei_NIES-4236	Microseira wollei NIES-4236	NIES-4236	GCF_020521235.1	SAMD00189155	PRJDB8827		Not available in retrieved metadata
+MOTU40_132525__Hormoscilla	MOTU40_132525__Hormoscilla	MOTU40_132525	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_016903655_Gomphosphaeria_aponina_SAG_52.96___DSM_107014	Gomphosphaeria aponina SAG 52.96 = DSM 107014	JP213	GCA_016903655.1	SAMN15930535	PRJNA659938		non-axenic culture deposited to culture collection
+GCA_031969975_Coleofasciculaceae_cyanobacterium_CTOTU46613	Coleofasciculaceae cyanobacterium CTOTU46613	CTOTU46613	GCA_031969975.1	SAMN29156246	PRJNA850115		sediment
+GCA_031969415_Coleofasciculaceae_cyanobacterium_CTOTU46644	Coleofasciculaceae cyanobacterium CTOTU46644	CTOTU46644	GCA_031969415.1	SAMN29156272	PRJNA850115		sediment
+GCA_003486645_Cyanobacteria_bacterium_UBA11370	Cyanobacteria bacterium UBA11370	UBA11370	GCA_003486645.1	SAMN08018407	PRJNA417962		sediment
+GCA_030065755_Prochloraceae_cyanobacterium	Prochloraceae cyanobacterium	MO_167.B51	GCA_030065755.1	SAMN33830794	PRJNA611818		marine sediment
+MOTU40_035992__JASJDA01	MOTU40_035992__JASJDA01	MOTU40_035992	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_50129__JASJDA01	BCRBG_50129__JASJDA01	BCRBG_50129	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_030065265_Prochloraceae_cyanobacterium	Prochloraceae cyanobacterium	MO_167.B41	GCA_030065265.1	SAMN33830790	PRJNA611818		marine sediment
+GCA_002110465_unicellular_cyanobacterium_SU2	unicellular cyanobacterium SU2	SU2	GCA_002110465.1	SAMN06765959	PRJNA383479		enrichment culture inoculated from marine water sample
+MOTU40_057253__Crocosphaera	MOTU40_057253__Crocosphaera	MOTU40_057253	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_049668785_Crocosphaera_sp.	Crocosphaera sp.	MFD10206_ilm_asm_bin4	GCA_049668785.1	SAMN40009724	PRJNA1071982		Sediment from Natural Saltwater
+SAMN39552904__Crocosphaera	SAMN39552904__Crocosphaera	SAMN39552904	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_038442745_Crocosphaera_sp._Alani8	Crocosphaera sp. Alani8	Alani8	GCF_038442745.1	SAMN34055600	PRJNA951741	Culture-derived genome	Not available in retrieved metadata
+GCF_000167195_Crocosphaera_watsonii_WH_8501	Crocosphaera watsonii WH 8501	WH 8501	GCF_000167195.1	SAMN02441415	PRJNA10651		Not available in retrieved metadata
+GCF_001050835_Crocosphaera_watsonii_WH_0005	Crocosphaera watsonii WH 0005	WH 0005	GCF_001050835.1	SAMEA3146296	PRJEB1315		Not available in retrieved metadata
+GCF_030064895_Crocosphaera_sp.	Crocosphaera sp.	MO_202.B2	GCF_030064895.1	SAMN33830821	PRJNA611818		marine sediment
+GCA_030066295_Crocosphaera_sp.	Crocosphaera sp.	MO_133.B10	GCA_030066295.1	SAMN33830765	PRJNA611818		marine sediment
+GCF_947331815_Cyanobacterium_sp._uoEpiScrs1	Cyanobacterium sp. uoEpiScrs1		GCF_947331815.1	SAMEA111323721	PRJEB57549; PRJEB54946; PRJEB43743; PRJEB43745; PRJNA533106		Not available in retrieved metadata
+GCF_003574135_cyanobacterium_endosymbiont_of_Rhopalodia_gibberula	cyanobacterium endosymbiont of Rhopalodia gibberula	missing	GCF_003574135.1	SAMD00083434	PRJDB4388		Not available in retrieved metadata
+GCF_029919255_cyanobacterium_endosymbiont_of_Epithemia_clementina_EcSB	cyanobacterium endosymbiont of Epithemia clementina EcSB	EcSB	GCF_029919255.1	SAMN33745866	PRJNA944260		missing
+GCF_000829235_cyanobacterium_endosymbiont_of_Epithemia_turgida_isolate_EtSB_Lake_Yunoko	cyanobacterium endosymbiont of Epithemia turgida isolate EtSB Lake Yunoko	ETSB Lake Yunoko	GCF_000829235.1	SAMD00061037	PRJDB498		Not available in retrieved metadata
+GCA_046116335_cyanobacterium_endosymbiont_of_Epithemia_adnata_isolate_EadnSB_Bon19	cyanobacterium endosymbiont of Epithemia adnata isolate EadnSB Bon19	19Bon2-SB	GCA_046116335.1	SAMN19405791	PRJNA690824		non-axenic Epithemia adnata culture 19Bon2 inoculated from freshwater river benthos
+GCA_052721205_cyanobacterium_endosymbiont_of_Rhopalodia_sterrenbergii	cyanobacterium endosymbiont of Rhopalodia sterrenbergii	24JT4A	GCA_052721205.1	SAMN48287920	PRJNA1257952		Diatom
+TPMCOTU_09214__Rippkaea	TPMCOTU_09214__Rippkaea	TPMCOTU_09214	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_045159875_cyanobacterium_endosymbiont_of_Rhopalodia_gibba	cyanobacterium endosymbiont of Rhopalodia gibba	17Bon1-SB	GCA_045159875.1	SAMN17265964	PRJNA690824		non-axenic Rhopalodia gibba culture 17Bon1 inoculated from freshwater river benthos
+GCF_000737945_Candidatus_Atelocyanobacterium_thalassa_isolate_SIO64986	Candidatus Atelocyanobacterium thalassa isolate SIO64986		GCF_000737945.1	SAMN02940555	PRJNA256120		flow cytometry enriched sample from Scripps pier surface waters
+GCF_000025125_Candidatus_Atelocyanobacterium_thalassa_isolate_ALOHA	Candidatus Atelocyanobacterium thalassa isolate ALOHA	ALOHA	GCF_000025125.1	SAMN02641594	PRJNA30917		flow cytometry enriched sample from station ALOHA
+OceanDNA-b16058__Atelocyanobacterium_thalassa	Atelocyanobacterium thalassa	OceanDNA-b16058	Not resolved	Not resolved	Not resolved		Not resolved
+OceanDNA-b16060__Atelocyanobacterium_thalassa	Atelocyanobacterium thalassa	OceanDNA-b16060	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_113171__JBCDDV01	MOTU40_113171__JBCDDV01	MOTU40_113171	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000169335_Crocosphaera_chwakensis_CCY0110	Crocosphaera chwakensis CCY0110	CCY0110	GCF_000169335.1	SAMN02436157	PRJNA18951		Not available in retrieved metadata
+GCF_000017845_Crocosphaera_subtropica_ATCC_51142	Crocosphaera subtropica ATCC 51142	ATCC 51142	GCF_000017845.1	SAMN02604312	PRJNA20319		Not available in retrieved metadata
+GCA_002172675_unicellular_cyanobacterium_SU3	unicellular cyanobacterium SU3	SU3	GCA_002172675.1	SAMN06833890	PRJNA384303		enrichment culture inoculated from marine water sample
+GCA_030064935_Crocosphaera_sp.	Crocosphaera sp.	MO_199.B6	GCA_030064935.1	SAMN33830820	PRJNA611818		marine sediment
+GCA_030065205_Crocosphaera_sp.	Crocosphaera sp.	MO_188.B44	GCA_030065205.1	SAMN33830807	PRJNA611818		marine sediment
+GCA_038530755_Cyanobacteria_bacterium_J06592_8	Cyanobacteria bacterium J06592_8	J06592_8	GCA_038530755.1	SAMN32762384	PRJNA914100		plastic particle
+GCA_035285085_Lyngbya_sp.	Lyngbya sp.	280001	GCA_035285085.1	SAMN39195508	PRJNA691704		surface water
+GCF_047276495_Capilliphycus_salinus_ALCB114379	Capilliphycus salinus ALCB114379	ALCB114379	GCF_047276495.1	SAMN45227232	PRJNA1107164		biofilm; non-axenic culture containing Capilliphycus salinus and associated bacteria
+GCA_022184905_Limnoraphis_sp._WC205	Limnoraphis sp. WC205	WC205	GCA_022184905.1	SAMN18685712	PRJNA612507		cyanobacterial bloom in freshwater lake
+GCF_000972705_Limnoraphis_robusta_CS-951	Limnoraphis robusta CS-951	CS-951	GCF_000972705.2	SAMN03450766	PRJNA279819	Culture-derived genome	Brackish ditch
+GCF_034932045_Limnoraphis_robusta_Tam1	Limnoraphis robusta Tam1	Tam1	GCF_034932045.1	SAMN39054842	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+MOTU40_047894__Limnoraphis	MOTU40_047894__Limnoraphis	MOTU40_047894	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_049645745_Limnoraphis_sp.	Limnoraphis sp.	MFD12125_ilm_asm_bin38	GCA_049645745.1	SAMN40011820	PRJNA1071982		Sediment from Urban Saltwater
+GCF_000478195_Lyngbya_aestuarii_BL_J	Lyngbya aestuarii BL J	BL J	GCF_000478195.2	SAMN02469313	PRJNA208960		marine microbial intertidal mats
+GCF_000169095_Lyngbya_sp._PCC_8106	Lyngbya sp. PCC 8106	PCC 8106	GCF_000169095.1	SAMN02436090	PRJNA13409		Not available in retrieved metadata
+GCF_000021825_Gloeothece_citriformis_PCC_7424	Gloeothece citriformis PCC 7424	PCC 7424	GCF_000021825.1	SAMN00000286	PRJNA20479		Not available in retrieved metadata
+GCF_000147335_Gloeothece_verrucosa_PCC_7822	Gloeothece verrucosa PCC 7822	PCC 7822	GCF_000147335.1	SAMN00000663	PRJNA28535		fresh water in rice field
+GCA_003448685_Cyanothece_sp._UBA12306	Cyanothece sp. UBA12306	UBA12306	GCA_003448685.1	SAMN08017500	PRJNA417962		beach sand
+GCF_000021805_Rippkaea_orientalis_PCC_8801	Rippkaea orientalis PCC 8801	PCC 8801	GCF_000021805.1	SAMN00000280	PRJNA20503		Not available in retrieved metadata
+GCF_003864295_Aphanothece_sacrum_FPU1	Aphanothece sacrum FPU1	FPU1	GCF_003864295.1	SAMD00066878	PRJDB5293	Culture-derived genome	Not available in retrieved metadata
+GCF_034931425_Crocosphaera_sp._XPORK-15E	Crocosphaera sp. XPORK-15E	XPORK-15E	GCF_034931425.1	SAMN39054840	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+GCA_022360135_Pseudanabaenales_cyanobacterium	Pseudanabaenales cyanobacterium	MAG.87	GCA_022360135.1	SAMN22830510	PRJNA757245		Porites lutea and Goniastrea edwardsi coral colonies
+OceanDNA-b16045__Zarconia	OceanDNA-b16045__Zarconia	OceanDNA-b16045	Not resolved	Not resolved	Not resolved		Not resolved
+OceanDNA-b16046__Zarconia	OceanDNA-b16046__Zarconia	OceanDNA-b16046	Not resolved	Not resolved	Not resolved		Not resolved
+SRR12687952_bin134__LEGE-06147	SRR12687952_bin134__LEGE-06147	SRR12687952_bin134	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000317025_Pleurocapsa_sp._PCC_7327	Pleurocapsa sp. PCC 7327	PCC 7327	GCF_000317025.1	SAMN02261346	PRJNA158829; PRJNA166933	Culture-derived genome	spring water (Hunter's hot spring)
+GCA_015272405_Hydrococcus_sp._C42_A2020_068	Hydrococcus sp. C42_A2020_068	C42_A2020_068	GCA_015272405.1	SAMN15062729	PRJNA635751		non-acidic hot spring microbial mat
+GCF_001904635_Hydrococcus_rivularis_NIES-593	Hydrococcus rivularis NIES-593	NIES-593	GCF_001904635.1	SAMN05890686	PRJNA347433	Culture-derived genome	Not available in retrieved metadata
+BCRBG_64821__Chroococcopsis	BCRBG_64821__Chroococcopsis	BCRBG_64821	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_036688125_Pannus_brasiliensis_CCIBt3594	Pannus brasiliensis CCIBt3594	CCIBt3594	GCF_036688125.1	SAMN39597229	PRJNA1068625	Culture-derived genome	freshwater puddle
+MOTU40_047410__Caldora	MOTU40_047410__Caldora	MOTU40_047410	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_020144665_Oscillatoria_salina_IICB1	Oscillatoria salina IICB1	IICB1	GCF_020144665.1	SAMN14074421	PRJNA605688	Culture-derived genome	marine water
+GCA_035968075_Oscillatoria_sp._PMC_1050.18	Oscillatoria sp. PMC 1050.18	PMC 1050.18	GCA_035968075.1	SAMN36471718	PRJNA994497		non-axenic culture inculated from coastal seawater near mangrove habitat
+BCRBG_52160__CALKCV01	BCRBG_52160__CALKCV01	BCRBG_52160	Not resolved	Not resolved	Not resolved		Not resolved
+MAG202307-2_ERR1739696_bin29__CALKCV01	MAG202307-2_ERR1739696_bin29__CALKCV01	MAG202307-2_ERR1739696_bin29	Not resolved	Not resolved	Not resolved		Not resolved
+TPMCOTU_10568__Gloeocapsa	TPMCOTU_10568__Gloeocapsa	TPMCOTU_10568	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_007693955_Gloeocapsa_sp._DLM2.Bin57	Gloeocapsa sp. DLM2.Bin57	DLM2.Bin57	GCA_007693955.1	SAMN10237368	PRJNA377096		alkaline salt lake
+GCA_937930495_uncultured_Gloeocapsa_sp.	uncultured Gloeocapsa sp.		GCA_937930495.1	SAMEA14073552	PRJEB50838		Mariane sediment
+GCA_001657325_Geitlerinema_sp._BBD_1991-9	Geitlerinema sp. BBD 1991-9	BBD 1991-9	GCA_001657325.1	SAMN04892670	PRJNA281489		enrichment culture inoculated with black band disease microbial mat
+GCF_000332175_Portococcus_stanieri_PCC_6802	Portococcus stanieri PCC 6802	PCC 6802	GCF_000332175.1	SAMN02261339	PRJNA158731; PRJNA166933	Culture-derived genome	Not available in retrieved metadata
+GCA_015272295_Synechococcales_cyanobacterium_M58_A2018_015	Synechococcales cyanobacterium M58_A2018_015	M58_A2018_015	GCA_015272295.1	SAMN15062746	PRJNA635751		Porcelana 58 C degree phototrophic mat
+GCA_025454395_Elainella_sp._Prado103	Elainella sp. Prado103	Prado103	GCA_025454395.1	SAMN27108562	PRJNA818364		Wetland A3
+GCMeta_00620168__Elainella	GCMeta_00620168__Elainella	GCMeta_00620168	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_00671461__SPIREOTU_00671461	SPIREOTU_00671461__SPIREOTU_00671461	SPIREOTU_00671461	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_025454405_Oscillatoriaceae_cyanobacterium_Prado104	Oscillatoriaceae cyanobacterium Prado104	Prado104	GCA_025454405.1	SAMN27108563	PRJNA818364		Wetland A3
+GCA_012034575_Richelia_sp._CSU_2_1	Richelia sp. CSU_2_1	CSU_2_1	GCA_012034575.1	SAMN14376449	PRJNA612530		Stromatolite
+SRR13020431-bin55__Microcoleus	SRR13020431-bin55__Microcoleus	SRR13020431-bin55	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_021379005_Leptodesmis_sichuanensis_A121	Leptodesmis sichuanensis A121	A121	GCF_021379005.1	SAMN19136101	PRJNA729579	Culture-derived genome	Not available in retrieved metadata
+GCA_037442585_Oscillatoriales_cyanobacterium_bin_317	Oscillatoriales cyanobacterium bin_317	SIF170217_bin_317	GCA_037442585.1	SAMN31096971	PRJNA627197; PRJEB55081		fluid and sediments from hot springs and volcanic lakes
+SPIREOTU_00671530__SPIREOTU_00671530	SPIREOTU_00671530__SPIREOTU_00671530	SPIREOTU_00671530	Not resolved	Not resolved	Not resolved		Not resolved
+SRR12686701_bin181__SRR12686701_bin181	SRR12686701_bin181__SRR12686701_bin181	SRR12686701_bin181	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_010672635_Desertifilum_sp._SIO1I2	Desertifilum sp. SIO1I2	SIO1I2	GCA_010672635.1	SAMN12797948	PRJNA558979		marine benthic turfs
+GCF_001746915_Desertifilum_tharense_IPPAS_B-1220	Desertifilum tharense IPPAS B-1220	IPPAS B-1220	GCF_001746915.2	SAMN05788062	PRJNA343432		missing
+GCF_026802175_Thermocoleostomius_sinensis_A174	Thermocoleostomius sinensis A174	A174	GCF_026802175.1	SAMN31952912	PRJNA907144	Culture-derived genome	Not available in retrieved metadata
+GCF_048077055_Egbenema_bharatensis_FJBBOT_2019	Egbenema bharatensis FJBBOT/2019	FJBBOT/2019	GCF_048077055.1	SAMN46743293	PRJNA1221537	Culture-derived genome	Not available in retrieved metadata
+GCA_964588805_uncultured_Microcoleus_sp.	uncultured Microcoleus sp.		GCA_964588805.1	SAMEA117375382	PRJEB82487		microbial mat metagenome
+GCA_031970115_Coleofasciculaceae_cyanobacterium_CTOTU46604	Coleofasciculaceae cyanobacterium CTOTU46604	CTOTU46604	GCA_031970115.1	SAMN29156237	PRJNA850115		sediment
+SMAGOTU_07922__DALYIW01	SMAGOTU_07922__DALYIW01	SMAGOTU_07922	Not resolved	Not resolved	Not resolved		Not resolved
+ERR3440680-bin1__Chroococcidiopsis	ERR3440680-bin1__Chroococcidiopsis	ERR3440680-bin1	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_039794445_Gloeomargarita_sp._GMQP_bins_5	Gloeomargarita sp. GMQP_bins_5	GMQP_bins_5	GCA_039794445.1	SAMN36706974	PRJNA998252		hot spring sediment
+GCA_025056115_Gloeomargarita_sp._SKYG116	Gloeomargarita sp. SKYG116	SKYG116	GCA_025056115.1	SAMN30304724	PRJNA761511		green biofilm from alkaline hot spring
+GCA_025055675_Pseudanabaenaceae_cyanobacterium_SKYG29	Pseudanabaenaceae cyanobacterium SKYG29	SKYG29	GCA_025055675.1	SAMN30304757	PRJNA761511		green biofilm from alkaline hot spring
+TPMCOTU_10244__Gloeomargarita_sp937936705	Gloeomargarita sp937936705	TPMCOTU_10244	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_937936705_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_937936705.1	SAMEA14073267	PRJEB50838		Mariane macroalgea Ulva sp.
+GCA_938034985_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_938034985.1	SAMEA14073568	PRJEB50838		Mariane sediment
+GCF_022984075_Synechococcus_sp._C9	Synechococcus sp. C9	C9	GCF_022984075.1	SAMN26329419	PRJNA811380		hot spring
+SPIREOTU_01616496__SPIREOTU_01616496	SPIREOTU_01616496__SPIREOTU_01616496	SPIREOTU_01616496	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_01616547__Gloeomargarita	SPIREOTU_01616547__Gloeomargarita	SPIREOTU_01616547	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_049589015_Phormidium_sp.	Phormidium sp.	MFD04603_ilm_asm_bin3	GCA_049589015.1	SAMN40008935	PRJNA1071982		Sediment from Urban Freshwater
+GCF_041929135_Floridaenema_fluviatile_BLCC-F154	Floridaenema fluviatile BLCC-F154	BLCC-F154	GCF_041929135.1	SAMN43549592	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+GCF_015207735_Phormidium_sp._LEGE_05292	[Phormidium] sp. LEGE 05292	LEGE 05292	GCF_015207735.1	SAMN16351719	PRJNA667061	Culture-derived genome	biofilm
+GCF_041929345_Floridaenema_aerugineum_BLCC-F46	Floridaenema aerugineum BLCC-F46	BLCC-F46	GCF_041929345.1	SAMN43549590	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+GCF_041929275_Floridaenema_flaviceps_BLCC-F50	Floridaenema flaviceps BLCC-F50	BLCC-F50	GCF_041929275.2	SAMN43549591	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+GCF_041929205_Floridaenema_evergladense_BLCC-F167	Floridaenema evergladense BLCC-F167	BLCC-F167	GCF_041929205.2	SAMN43549593	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+SRR12686701_bin184__Stanieria	SRR12686701_bin184__Stanieria	SRR12686701_bin184	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_014698145_Oscillatoria_sp._FACHB-1406	Oscillatoria sp. FACHB-1406	FACHB-1406	GCF_014698145.1	SAMN13702685	PRJNA598298		freshwater
+GCA_034190385_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	MAG01_tar_biofilm	GCA_034190385.1	SAMN38430210	PRJNA981336		tar patties
+MOTU40_036029__MOTU40_036029	MOTU40_036029__MOTU40_036029	MOTU40_036029	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_039194995_Cyanobacteria_bacterium_P01_E01_bin.42	Cyanobacteria bacterium P01_E01_bin.42	P01_E01_bin.42	GCA_039194995.1	SAMN32766889	PRJNA914100		plastic particle
+GCA_017746715_Cyanobacteria_bacterium_SBLK	Cyanobacteria bacterium SBLK	SBLK	GCA_017746715.1	SAMN18473589	PRJNA647383		cyanobacterial mat on coral surface
+GCA_012030745_Oscillatoriales_cyanobacterium_SM2_3_0	Oscillatoriales cyanobacterium SM2_3_0	SM2_3_0	GCA_012030745.1	SAMN14376583	PRJNA612530		Stromatolite
+GCA_964434975_uncultured_Lyngbya_sp.	uncultured Lyngbya sp.		GCA_964434975.1	SAMEA117375389	PRJEB82487		microbial mat metagenome
+SPIREOTU_00099769__JAAURB01	SPIREOTU_00099769__JAAURB01	SPIREOTU_00099769	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_007904085_Euhalothece_natronophila_Z-M001	Euhalothece natronophila Z-M001	Z-M001	GCF_007904085.1	SAMN12419044	PRJNA557809	Culture-derived genome	soda lake Magadi
+GCA_046539345_Halothece_sp.	Halothece sp.	D1M06_8	GCA_046539345.1	SAMN35734983	PRJNA847603		Hypersaline lake, pH fluctuating
+GCA_042218725_Halothece_sp.	Halothece sp.	DAL-Ass_34_100C4R	GCA_042218725.1	SAMN40372915	PRJNA541281		water column
+GCA_009909085_Cyanobacteria_bacterium_GSL.Bin1	Cyanobacteria bacterium GSL.Bin1	GSL.Bin1	GCA_009909085.1	SAMN13763250	PRJNA598870		microbial mat
+GCA_964346685_uncultured_Dactylococcopsis_sp.	uncultured Dactylococcopsis sp.		GCA_964346685.1	SAMEA117293935	PRJEB82487		microbial mat metagenome
+GCA_964463655_uncultured_Dactylococcopsis_sp.	uncultured Dactylococcopsis sp.		GCA_964463655.1	SAMEA117288634	PRJEB82487		microbial mat metagenome
+GCF_000317635_Halothece_sp._PCC_7418	Halothece sp. PCC 7418	PCC 7418	GCF_000317635.1	SAMN02232029	PRJNA40817; PRJNA166933	Culture-derived genome	Water, lake, Solar lake
+GCA_964489465_uncultured_Dactylococcopsis_sp.	uncultured Dactylococcopsis sp.		GCA_964489465.1	SAMEA117364052	PRJEB82487		microbial mat metagenome
+GCA_049670045_Waterburya_sp.	Waterburya sp.	MFD10280_ilm_asm_bin17	GCA_049670045.1	SAMN40009689	PRJNA1071982		Sediment from Natural Saltwater
+GCA_000380225_filamentous_cyanobacterium_ESFC-1	filamentous cyanobacterium ESFC-1	ESFC-1	GCA_000380225.1	SAMN02256433	PRJNA165547	Culture-derived genome	shipworm (Teredinidae) gill
+GCA_046541115_Spirulinaceae_cyanobacterium	Spirulinaceae cyanobacterium	D1M04_3	GCA_046541115.1	SAMN35734900	PRJNA847603		Hypersaline lake, pH fluctuating
+MAG202304_SRR21542054_bin100__JBBQDV01	MAG202304_SRR21542054_bin100__JBBQDV01	bin100	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_030064875_Xenococcaceae_cyanobacterium_MO_207.B15	Xenococcaceae cyanobacterium MO_207.B15	MO_207.B15	GCA_030064875.1	SAMN33830825	PRJNA611818		marine sediment
+MOTU40_113224__Waterburya	MOTU40_113224__Waterburya	MOTU40_113224	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_030064915_Xenococcaceae_cyanobacterium_MO_234.B1	Xenococcaceae cyanobacterium MO_234.B1	MO_234.B1	GCA_030064915.1	SAMN33830830	PRJNA611818		marine sediment
+MOTU40_122033__Waterburya	MOTU40_122033__Waterburya	MOTU40_122033	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000332055_Xenococcus_sp._PCC_7305	Xenococcus sp. PCC 7305	PCC 7305	GCF_000332055.1	SAMN02261354	PRJNA159499; PRJNA166933	Culture-derived genome	marine aquarium, La Jolla, CA
+MGYG000445513__Xenococcus	MGYG000445513__Xenococcus	MGYG000445513	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_030065615_Xenococcus_sp._MO_188.B8	Xenococcus sp. MO_188.B8	MO_188.B8	GCA_030065615.1	SAMN33830811	PRJNA611818		marine sediment
+GCA_039033915_Cyanobacteria_bacterium_P01_A01_bin.40	Cyanobacteria bacterium P01_A01_bin.40	P01_A01_bin.40	GCA_039033915.1	SAMN32766188	PRJNA914100		plastic particle
+GCA_030064975_Pleurocapsa_sp._MO_192.B19	Pleurocapsa sp. MO_192.B19	MO_192.B19	GCA_030064975.1	SAMN33830817	PRJNA611818		marine sediment
+GCA_039180345_Cyanobacteria_bacterium_P01_G01_bin.39	Cyanobacteria bacterium P01_G01_bin.39	P01_G01_bin.39	GCA_039180345.1	SAMN32767090	PRJNA914100		plastic particle
+GCA_039030815_Cyanobacteria_bacterium_P01_A01_bin.83	Cyanobacteria bacterium P01_A01_bin.83	P01_A01_bin.83	GCA_039030815.1	SAMN32766233	PRJNA914100		plastic particle
+GCA_039821905_Cyanobacteria_bacterium_J06631_2	Cyanobacteria bacterium J06631_2	J06631_2	GCA_039821905.1	SAMN32762852	PRJNA914100		plastic particle
+GCA_015207195_Pleurocapsales_cyanobacterium_LEGE_10410	Pleurocapsales cyanobacterium LEGE 10410	LEGE 10410	GCA_015207195.1	SAMN16351748	PRJNA667061	Culture-derived genome	intertidal zone, green biofilm on a pebblestone
+GCA_049668845_Waterburya_sp.	Waterburya sp.	MFD10206_ilm_asm_bin19	GCA_049668845.1	SAMN40009722	PRJNA1071982		Sediment from Natural Saltwater
+GCF_900659865_Hyella_patelloides_LEGE_07179	Hyella patelloides LEGE 07179		GCF_900659865.1	SAMEA4964519	PRJEB28569		Moledo do Minho Beach, Portugal
+GCA_039181635_Cyanobacteria_bacterium_P01_G01_bin.19	Cyanobacteria bacterium P01_G01_bin.19	P01_G01_bin.19	GCA_039181635.1	SAMN32767068	PRJNA914100		plastic particle
+GCA_030065315_Xenococcaceae_cyanobacterium_MO_167.B52	Xenococcaceae cyanobacterium MO_167.B52	MO_167.B52	GCA_030065315.1	SAMN33830795	PRJNA611818		marine sediment
+GCA_030065155_Xenococcaceae_cyanobacterium_MO_188.B29	Xenococcaceae cyanobacterium MO_188.B29	MO_188.B29	GCA_030065155.1	SAMN33830802	PRJNA611818		marine sediment
+Vamb_SRR17165163_1__Vamb_SRR17165163_1	Vamb_SRR17165163_1__Vamb_SRR17165163_1	Vamb_SRR17165163_1	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_45354__JAABRE01	BCRBG_45354__JAABRE01	BCRBG_45354	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000756305_Myxosarcina_sp._GI1	Myxosarcina sp. GI1	GI1	GCF_000756305.1	SAMN03020304	PRJNA259928	Culture-derived genome	coral reef
+SAMN02744079__Hyella	SAMN02744079__Hyella	SAMN02744079	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_00099750__Gomphosphaeria	SPIREOTU_00099750__Gomphosphaeria	SPIREOTU_00099750	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_964409355_uncultured_Cyanobacterium_sp.	uncultured Cyanobacterium sp.		GCA_964409355.1	SAMEA117288660	PRJEB82487		microbial mat metagenome
+GCF_036345015_Cyanobacterium_sp._DS4	Cyanobacterium sp. DS4	DS4	GCF_036345015.1	SAMN21561136	PRJNA765482	Culture-derived genome	Not available in retrieved metadata
+MetaBAT2_SRR17165168_bin.72__JAALKG01	MetaBAT2_SRR17165168_bin.72__JAALKG01	MetaBAT2_SRR17165168_bin.72	Not resolved	Not resolved	Not resolved		Not resolved
+GOMCOTU_13916__GOMCOTU_13916	GOMCOTU_13916__GOMCOTU_13916	GOMCOTU_13916	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_111243__Cyanobacterium	MOTU40_111243__Cyanobacterium	MOTU40_111243	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_963749915_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_963749915.1	SAMEA114832667	PRJEB58634		sediment
+GCA_030065635_Xenococcaceae_cyanobacterium_MO_188.B32	Xenococcaceae cyanobacterium MO_188.B32	MO_188.B32	GCA_030065635.1	SAMN33830803	PRJNA611818		marine sediment
+MOTU40_116165__MOTU40_116165	MOTU40_116165__MOTU40_116165	MOTU40_116165	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_034189805_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	MAG41_tar_biofilm	GCA_034189805.1	SAMN38430250	PRJNA981336		tar patties
+MOTU40_116454__JBCBZT01	MOTU40 116454 | JBCBZT01	MOTU40_116454__JBCBZT01	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_116494__SIO1E4	MOTU40 116494 | SIO1E4	MOTU40_116494__SIO1E4	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_010672895_Leptolyngbya_sp._SIO1D8	Leptolyngbya sp. SIO1D8	SIO1D8	GCA_010672895.1	SAMN12797958	PRJNA558979		marine benthic turfs
+GCA_038750375_Cyanobacteria_bacterium_P01_H01_bin.15	Cyanobacteria bacterium P01_H01_bin.15	P01_H01_bin.15	GCA_038750375.1	SAMN32767633	PRJNA914100		plastic particle
+GCF_028330965_Oscillatoria_sp._CS-180	Oscillatoria sp. CS-180	CS-180	GCF_028330965.1	SAMN32758773	PRJNA924361	Culture-derived genome	freshwater
+GCA_039815185_Cyanobacteria_bacterium_P01_A01_bin.123	Cyanobacteria bacterium P01_A01_bin.123	P01_A01_bin.123	GCA_039815185.1	SAMN32763177	PRJNA914100		plastic particle
+GCA_039820305_Cyanobacteria_bacterium_J06635_15	Cyanobacteria bacterium J06635_15	J06635_15	GCA_039820305.1	SAMN32762933	PRJNA914100		plastic particle
+GCA_039180385_Cyanobacteria_bacterium_P01_G01_bin.38	Cyanobacteria bacterium P01_G01_bin.38	P01_G01_bin.38	GCA_039180385.1	SAMN32767089	PRJNA914100		plastic particle
+GCA_039820425_Cyanobacteria_bacterium_J06635_1	Cyanobacteria bacterium J06635_1	J06635_1	GCA_039820425.1	SAMN32762927	PRJNA914100		plastic particle
+GCA_038527325_Cyanobacteria_bacterium_J06614_10	Cyanobacteria bacterium J06614_10	J06614_10	GCA_038527325.1	SAMN32762478	PRJNA914100		plastic particle
+GCA_038521415_Cyanobacteria_bacterium_J06627_3	Cyanobacteria bacterium J06627_3	J06627_3	GCA_038521415.1	SAMN32762602	PRJNA914100		plastic particle
+GCA_039815875_Cyanobacteria_bacterium_J06656_5	Cyanobacteria bacterium J06656_5	J06656_5	GCA_039815875.1	SAMN32763142	PRJNA914100		plastic particle
+GCA_038748405_Cyanobacteria_bacterium_P01_H01_bin.21	Cyanobacteria bacterium P01_H01_bin.21	P01_H01_bin.21	GCA_038748405.1	SAMN32767677	PRJNA914100		plastic particle
+GCA_038748225_Cyanobacteria_bacterium_P01_H01_bin.26	Cyanobacteria bacterium P01_H01_bin.26	P01_H01_bin.26	GCA_038748225.1	SAMN32767682	PRJNA914100		plastic particle
+GCA_039024555_Cyanobacteria_bacterium_P01_D01_bin.156	Cyanobacteria bacterium P01_D01_bin.156	P01_D01_bin.156	GCA_039024555.1	SAMN32766576	PRJNA914100		plastic particle
+GCA_039817185_Cyanobacteria_bacterium_J06648_16	Cyanobacteria bacterium J06648_16	J06648_16	GCA_039817185.1	SAMN32763088	PRJNA914100		plastic particle
+MOTU40_036001__CCP5	MOTU40 036001 | CCP5	MOTU40_036001__CCP5	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_010672825_Leptolyngbya_sp._SIO1E4	Leptolyngbya sp. SIO1E4	SIO1E4	GCA_010672825.2	SAMN12797911	PRJNA558979		marine benthic turfs
+GCA_041164445_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	bin.118	GCA_041164445.1	SAMN37153605	PRJNA946291		river surface water
+SPIREOTU_00378742__SPIREOTU_00378742	SPIREOTU 00378742 | SPIREOTU 00378742	SPIREOTU_00378742	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_042788235_Almyronema_epifaneia_S6_strain_MCC_5313	Almyronema epifaneia S6	S6; MCC 5313	GCF_042788235.1	SAMN44015207	PRJNA1167801	Culture-derived genome	soil biofilm
+GCA_963718615_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_963718615.1	SAMEA114818349	PRJEB58634		sediment
+Vamb_SRR27489832_2__Vamb_SRR27489832_2	Vamb SRR27489832 2 | Vamb SRR27489832 2	Vamb_SRR27489832_2	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_002286845_Geitlerinema_sp._FC_II	Geitlerinema sp. FC II	FC II	GCA_002286845.1	SAMN07522602	PRJNA399071	Culture-derived genome	Saline water
+LKSZ1	Synechocystis sp. LKSZ1	LKSZ1	GCA_040436315.1	SAMD00775684	PRJDB18039	Culture-derived genome	
+GCA_038520475_Cyanobacteria_bacterium_J06627_8	Cyanobacteria bacterium J06627_8	J06627_8	GCA_038520475.1	SAMN32762615	PRJNA914100		plastic particle
+GCA_039033975_Cyanobacteria_bacterium_P01_A01_bin.37	Cyanobacteria bacterium P01_A01_bin.37	P01_A01_bin.37	GCA_039033975.1	SAMN32766184	PRJNA914100		plastic particle
+BCRBG_50736__Halomicronema	BCRBG 50736 | Halomicronema	BCRBG_50736__Halomicronema	Not resolved	Not resolved	Not resolved		Not resolved
+GOMCOTU_14229__GOMCOTU_14229	GOMCOTU 14229 | GOMCOTU 14229	GOMCOTU_14229	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_039819245_Cyanobacteria_bacterium_J06638_20	Cyanobacteria bacterium J06638_20	J06638_20	GCA_039819245.1	SAMN32762985	PRJNA914100		plastic particle
+GCA_015207365_Vacuolonema_iberomarrocanum_LEGE_07170	Vacuolonema iberomarrocanum LEGE 07170	LEGE 07170	GCA_015207365.1	SAMN16351739	PRJNA667061	Culture-derived genome	wave-exposed tide puddle
+GCF_000309385_Nodosilinea_nodulosa_PCC_7104	Nodosilinea nodulosa PCC 7104	PCC 7104	GCF_000309385.1	SAMN02261265	PRJNA62311; PRJNA166933	Culture-derived genome	rock at shoreline
+GCA_038523235_Cyanobacteria_bacterium_J06626_4	Cyanobacteria bacterium J06626_4	J06626_4	GCA_038523235.1	SAMN32762574	PRJNA914100		plastic particle
+GCA_937899725_uncultured_Halomicronema_sp.	uncultured Halomicronema sp.		GCA_937899725.1	SAMEA14075427	PRJEB51078; PRJEB51083		marine metagenome
+GCF_015207395_Nodosilinea_sp._LEGE_07088	Nodosilinea sp. LEGE 07088	LEGE 07088	GCF_015207395.1	SAMN16351736	PRJNA667061	Culture-derived genome	mesotidal zone, benthic
+GCA_036848635_Nodosilinea_sp._CTOTU7336	Nodosilinea sp. CTOTU7336	CTOTU7336	GCA_036848635.1	SAMN28751800	PRJNA843551		water
+SemiBins2_SRR33532330_4__SemiBins2_SRR33532330_4	SemiBins2 SRR33532330 4 | SemiBins2 SRR33532330 4	SemiBins2_SRR33532330_4	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_035285585_Synechococcales_cyanobacterium	Synechococcales cyanobacterium	1108005	GCA_035285585.1	SAMN39195481	PRJNA691704		surface water
+GCF_028285745_Acaryochloris_sp._IP29b_bin.137	Acaryochloris sp. IP29b_bin.137	IP29b_bin.137	GCF_028285745.1	SAMN29486709	PRJNA857095		Coral skeleton
+GCF_026240635_Trichothermofontia_sichuanensis_B231	Trichothermofontia sichuanensis B231	B231	GCF_026240635.1	SAMN31598886	PRJNA898096	Culture-derived genome	Not available in retrieved metadata
+TPMCOTU_10236__Trichothermofontia	TPMCOTU_10236__Trichothermofontia	TPMCOTU_10236	Not resolved	Not resolved	Not resolved		Not resolved
+ERR1612258-bin24__Trichothermofontia	ERR1612258-bin24__Trichothermofontia	ERR1612258-bin24	Not resolved	Not resolved	Not resolved		Not resolved
+SRR8371833-bin1__Trichothermofontia	SRR8371833-bin1__Trichothermofontia	SRR8371833-bin1	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_00099456__Trichothermofontia	SPIREOTU_00099456__Trichothermofontia	SPIREOTU_00099456	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_116485__PCC-6406	MOTU40_116485__PCC-6406	MOTU40_116485	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000482245_Leptolyngbya_sp._Heron_Island_J	Leptolyngbya sp. Heron Island J	Heron Island J	GCF_000482245.1	SAMN02469314	PRJNA215004		Not available in retrieved metadata
+GCA_000316115_Leptolyngbya_sp._PCC_7375	Leptolyngbya sp. PCC 7375	PCC 7375	GCA_000316115.1	SAMN02256520	PRJNA43137; PRJNA166933	Culture-derived genome	Plankton, Woods Hole region, Massachusetts, U.S.A.
+GCF_011009535_Adonisia_turfae_CCMR0082	Adonisia turfae CCMR0082	CCMR0082	GCF_011009535.1	SAMN09881584	PRJNA487318	Culture-derived genome	marine
+GCF_016888135_Leptolyngbya_sp._CCY15150	Leptolyngbya sp. CCY15150	CCY15150	GCF_016888135.1	SAMN15893521	PRJNA658956	Culture-derived genome	Microbial mat
+GCA_937120705_uncultured_Leptolyngbya_sp.	uncultured Leptolyngbya sp.		GCA_937120705.1	SAMEA13959116	PRJEB51071; PRJEB51083		aquatic metagenome
+GCF_015207265_Nodosilinea_sp._LEGE_07298	Nodosilinea sp. LEGE 07298	LEGE 07298	GCF_015207265.1	SAMN16351743	PRJNA667061	Culture-derived genome	water sample, on the estuary shore
+GCF_000332095_Leptolyngbya_sp._PCC_6406	Leptolyngbya sp. PCC 6406	PCC 6406	GCF_000332095.2	SAMN02261357	PRJNA159511; PRJNA166933	Culture-derived genome	Fresh water, California, USA, 1964
+GCA_036782635_Nodosilinea_sp._CTOTU7353	Nodosilinea sp. CTOTU7353	CTOTU7353	GCA_036782635.1	SAMN28748306	PRJNA843551		water
+GCF_032813545_Nodosilinea_sp._E11	Nodosilinea sp. E11	E11	GCF_032813545.1	SAMN37551505	PRJNA1021331	Culture-derived genome	seawater
+GCF_003018975_filamentous_cyanobacterium_CCP4	filamentous cyanobacterium CCP4	CCP4	GCF_003018975.1	SAMN08617413	PRJNA436169		salt marsh
+GCF_034932455_Leptolyngbya_sp._CCNP1308	Leptolyngbya sp. CCNP1308	CCNP1308	GCF_034932455.1	SAMN39054858	PRJNA1055570	Culture-derived genome	Not available in retrieved metadata
+GCF_000763385_Leptolyngbya_sp._KIOST-1	Leptolyngbya sp. KIOST-1	KIOST-1	GCF_000763385.1	SAMN02953965	PRJNA257685		Spirulina culture pond
+GCF_029109325_Nodosilinea_sp._PGN35	Nodosilinea sp. PGN35	PGN35	GCF_029109325.2	SAMN32710271	PRJNA923294		mine tailings from active mining site
+Vamb_SRR26897515_3__Thermoleptolyngbya	Vamb_SRR26897515_3__Thermoleptolyngbya	Vamb_SRR26897515_3	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_015295885_Leptolyngbyaceae_cyanobacterium_M65_K2018_010	Leptolyngbyaceae cyanobacterium M65_K2018_010	M65_K2018_010	GCA_015295885.1	SAMN15062748	PRJNA635751		Hot spring_65deg.
+TPMCOTU_10235__Thermoleptolyngbya	TPMCOTU_10235__Thermoleptolyngbya	TPMCOTU_10235	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_001548395_Leptolyngbya_sp._O-77	Leptolyngbya sp. O-77	O-77	GCF_001548395.1	SAMD00045841	PRJDB4517		Not available in retrieved metadata
+GCF_013177315_Thermoleptolyngbya_sichuanensis_A183	Thermoleptolyngbya sichuanensis A183	A183	GCF_013177315.1	SAMN14943777	PRJNA633431	Culture-derived genome	Not available in retrieved metadata
+GCA_943373075_Stenomitos_frigidus_ULC18	Stenomitos frigidus ULC18		GCA_943373075.1	SAMEA14447367	PRJEB49198		Freshwater lake
+GCA_964431105_uncultured_Leptolyngbya_sp.	uncultured Leptolyngbya sp.		GCA_964431105.1	SAMEA117384770	PRJEB82487		microbial mat metagenome
+GCF_014697375_Phormidium_sp._FACHB-1136	Phormidium sp. FACHB-1136	FACHB-1136	GCF_014697375.1	SAMN13702705	PRJNA598298		freshwater
+GCMeta_01250871__Nodosilinea_sp014697375	Nodosilinea sp014697375	GCMeta_01250871	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_040396995_Nodosilinea_sp.	Nodosilinea sp.	EUL_358	GCA_040396995.1	SAMN40136082	PRJNA1052970		Freshwater Lakes
+GCA_044070495_Spirulina_sp.	Spirulina sp.	Cam_3-MAG04	GCA_044070495.1	SAMN44248933	PRJNA1085564		Lakes close to the Mediterranean Sea
+GCA_003550805_Cyanobacteria_bacterium_B1Sed10_56	Cyanobacteria bacterium B1Sed10_56	B1Sed10_56	GCA_003550805.1	SAMN08575277	PRJNA434545		hypersaline soda lake sediment
+GCF_012911975_Nodosilinea_sp._P-1105	Nodosilinea sp. P-1105	P-1105	GCF_012911975.1	SAMN11081406	PRJNA525985	Culture-derived genome	Cock Soda lake, Kulunda Steppe
+TPMCOTU_05004__Nodosilinea	TPMCOTU_05004__Nodosilinea	TPMCOTU_05004	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_041743895_Nodosilinea_sp.	Nodosilinea sp.	JTS-RE35	GCA_041743895.1	SAMN41306304	PRJNA1081961; PRJNA1080596		travertine gravel
+SPIREOTU_01327193__FACHB-8	SPIREOTU_01327193__FACHB-8	SPIREOTU_01327193	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_01326285__Halomicronema	SPIREOTU_01326285__Halomicronema	SPIREOTU_01326285	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_01326010__SPIREOTU_01326010	SPIREOTU_01326010__SPIREOTU_01326010	SPIREOTU_01326010	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_75970__BCRBG_75970	BCRBG_75970__BCRBG_75970	BCRBG_75970	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_52201__BCRBG_52201	BCRBG_52201__BCRBG_52201	BCRBG_52201	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_116168__Halomicronema	MOTU40_116168__Halomicronema	MOTU40_116168	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_004212215_Leptolyngbya_iicbica_LK	Leptolyngbya iicbica LK	LK	GCF_004212215.1	SAMN09787254	PRJNA485276		marine
+GCA_010671905_Leptolyngbya_sp._SIOISBB	Leptolyngbya sp. SIOISBB	SIOISBB	GCA_010671905.1	SAMN12797916	PRJNA558979		marine benthic turfs
+GOMCOTU_13158__CAKZMO01	GOMCOTU_13158__CAKZMO01	GOMCOTU_13158	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_52518__JAAUTY01	BCRBG_52518__JAAUTY01	BCRBG_52518	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_012031265_Spirulinaceae_cyanobacterium_SM2_1_0	Spirulinaceae cyanobacterium SM2_1_0	SM2_1_0	GCA_012031265.1	SAMN14376573	PRJNA612530		Stromatolite
+GCMeta_01250626__GCMeta_01250626	GCMeta_01250626__GCMeta_01250626	GCMeta_01250626	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_45308__BCRBG_45308	BCRBG_45308__BCRBG_45308	BCRBG_45308	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_937911865_uncultured_Synechococcus_sp.	uncultured Synechococcus sp.		GCA_937911865.1	SAMEA14075452	PRJEB51078; PRJEB51083		marine metagenome
+GCA_012033015_Phormidesmis_sp._RL_2_1	Phormidesmis sp. RL_2_1	RL_2_1	GCA_012033015.1	SAMN14376463	PRJNA612530		Stromatolite
+GCA_038525165_Cyanobacteria_bacterium_J06621_3	Cyanobacteria bacterium J06621_3	J06621_3	GCA_038525165.1	SAMN32762531	PRJNA914100		plastic particle
+GCA_963793265_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_963793265.1	SAMEA114813966	PRJEB58634		water
+GCF_015207105_cf._Phormidesmis_sp._LEGE_11477	cf. Phormidesmis sp. LEGE 11477	LEGE 11477	GCF_015207105.1	SAMN16351753	PRJNA667061	Culture-derived genome	subtidal sample, epilithic (6 m depth), near the south quay of the Leixes harbour
+SRR9860674_bin3__Phormidesmis	SRR9860674_bin3__Phormidesmis	SRR9860674_bin3	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000155595_Synechococcus_sp._PCC_7335	Synechococcus sp. PCC 7335	PCC 7335	GCF_000155595.1	SAMN02436177	PRJNA19377		Not available in retrieved metadata
+GCA_001314865_Phormidesmis_priestleyi_Ana	Phormidesmis priestleyi Ana	Ana	GCA_001314865.1	SAMN03785498	PRJNA283228		enrichment culture HLUCC-A from microbial mat sample; contains cyanobacterium Phormidesmis priestleyi ANA and associated heterotrophs
+GCA_038533495_Cyanobacteria_bacterium_J06560_5	Cyanobacteria bacterium J06560_5	J06560_5	GCA_038533495.1	SAMN32762287	PRJNA914100		plastic particle
+GCA_028285315_Acaryochloris_sp._IP29b_bin.176	Acaryochloris sp. IP29b_bin.176	IP29b_bin.176	GCA_028285315.1	SAMN29486740	PRJNA857095		Coral skeleton
+SPIREOTU_00861350__Acaryochloris	SPIREOTU_00861350__Acaryochloris	SPIREOTU_00861350	Not resolved	Not resolved	Not resolved		Not resolved
+TPMCOTU_09928__TPMCOTU_09928	TPMCOTU_09928__TPMCOTU_09928	TPMCOTU_09928	Not resolved	Not resolved	Not resolved		Not resolved
+MAG202307-2_SRR12687280_bin120__MAG202307-2_SRR12687280_bin120	MAG202307-2_SRR12687280_bin120__MAG202307-2_SRR12687280_bin120	bin120	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_50162__BCRBG_50162	BCRBG_50162__BCRBG_50162	BCRBG_50162	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_034190295_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	MAG08_tar_biofilm	GCA_034190295.1	SAMN38430217	PRJNA981336		tar patties
+MOTU40_047904__JASJEE01	MOTU40_047904__JASJEE01	MOTU40_047904	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_049647275_Microcoleaceae_cyanobacterium	Microcoleaceae cyanobacterium	MFD12174_ilm_asm_bin4	GCA_049647275.1	SAMN40011745	PRJNA1071982		Sediment from Urban Saltwater
+GCA_030064835_Microcoleaceae_cyanobacterium_MO_207.B10	Microcoleaceae cyanobacterium MO_207.B10	MO_207.B10	GCA_030064835.1	SAMN33830824	PRJNA611818		marine sediment
+GCF_010672585_Okeania_sp._SIO1I7	Okeania sp. SIO1I7	SIO1I7	GCF_010672585.1	SAMN12797917	PRJNA558979		marine benthic turfs
+GCA_030064815_Trichodesmium_sp._MO_231.B1	Trichodesmium sp. MO_231.B1	MO_231.B1	GCA_030064815.1	SAMN33830829	PRJNA611818		marine sediment
+GCA_038747755_Cyanobacteria_bacterium_P01_H01_bin.35	Cyanobacteria bacterium P01_H01_bin.35	P01_H01_bin.35	GCA_038747755.1	SAMN32767692	PRJNA914100		plastic particle
+GCF_010672295_Okeania_sp._SIO2G4	Okeania sp. SIO2G4	SIO2G4	GCF_010672295.1	SAMN12797941	PRJNA558979		marine benthic turfs
+GCF_000014265_Trichodesmium_erythraeum_IMS101	Trichodesmium erythraeum IMS101	IMS101	GCF_000014265.1	SAMN02598485	PRJNA318		Not available in retrieved metadata
+GCA_964015785_uncultured_Trichodesmium_sp.	uncultured Trichodesmium sp.		GCA_964015785.1	SAMEA115425479	PRJEB50181		marine metagenome
+GCA_028982325_Trichodesmium_sp._St19_bin1	Trichodesmium sp. St19_bin1	St19_bin1	GCA_028982325.1	SAMN29146516	PRJNA828267		hand picked Trichodesmium colonies from marine 130 um planktonic net tow
+GCA_023356605_Trichodesmium_sp._MAG_R02	Trichodesmium sp. MAG_R02	MAG_R02	GCA_023356605.1	SAMN25809968	PRJNA804487		Net Tow
+GCF_010672085_Okeania_sp._SIO3I5	Okeania sp. SIO3I5	SIO3I5	GCF_010672085.1	SAMN12797956	PRJNA558979		marine benthic turfs
+GCA_050015975_Dapis_purpurea_BLCC-M126	Dapis purpurea BLCC-M126	BLCC-M126	GCA_050015975.1	SAMN48108357	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+GCA_050015995_Dapis_brunnea_BLCC-M229	Dapis brunnea BLCC-M229	BLCC-M229	GCA_050015995.1	SAMN48108359	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+GCF_010672455_Okeania_sp._SIO2C9	Okeania sp. SIO2C9	SIO2C9	GCF_010672455.1	SAMN12797939	PRJNA558979		marine benthic turfs
+GCF_010672525_Okeania_sp._SIO2B3	Okeania sp. SIO2B3	SIO2B3	GCF_010672525.1	SAMN12797931	PRJNA558979		marine benthic turfs
+GCF_003838225_Okeania_hirsuta_strain_PAP21Jun06-1	Okeania hirsuta	PAP21Jun06-1	GCF_003838225.1	SAMN10067996	PRJNA491240		non-axenic mono-cyanobacterial microbial culture inoculated from nearshore shallow marine substrate
+GCF_010672745_Okeania_sp._SIO1F9	Okeania sp. SIO1F9	SIO1F9	GCF_010672745.1	SAMN12797976	PRJNA558979		marine benthic turfs
+GCF_010672505_Okeania_sp._SIO2B9	Okeania sp. SIO2B9	SIO2B9	GCF_010672505.1	SAMN12797929	PRJNA558979		marine benthic turfs
+GCF_003838195_Okeania_hirsuta_strain_PAB10Feb10-1	Okeania hirsuta	PAB10Feb10-1	GCF_003838195.1	SAMN10067995	PRJNA491239		non-axenic mono-cyanobacterial microbial culture inoculated from subtidal seagrass beds
+GCF_010692625_Okeania_sp._SIO2C2	Okeania sp. SIO2C2	SIO2C2	GCF_010692625.1	SAMN12797934	PRJNA558979		marine benthic turfs
+GCF_014132355_Okeania_sp._KiyG1	Okeania sp. KiyG1	KiyG1	GCF_014132355.1	SAMD00236478	PRJDB9210		low tide zone
+GCA_010692535_Okeania_sp._SIO3B3	Okeania sp. SIO3B3	SIO3B3	GCA_010692535.1	SAMN12797955	PRJNA558979		marine benthic turfs
+GCA_010692645_Symploca_sp._SIO2E9	Symploca sp. SIO2E9	SIO2E9	GCA_010692645.1	SAMN12797974	PRJNA558979		marine benthic turfs
+GCA_010672885_Symploca_sp._SIO1C4	Symploca sp. SIO1C4	SIO1C4	GCA_010672885.1	SAMN12797905	PRJNA558979		marine benthic turfs
+GCA_010692425_Symploca_sp._SIO3C6	Symploca sp. SIO3C6	SIO3C6	GCA_010692425.1	SAMN12797952	PRJNA558979		marine benthic turfs
+GCA_049683475_Coleofasciculaceae_cyanobacterium	Coleofasciculaceae cyanobacterium	MFD12152_ilm_asm_bin12	GCA_049683475.1	SAMN40011605	PRJNA1071982		Sediment from Urban Saltwater
+GCF_052546295_Symploca_atlantica_LB2515	Symploca atlantica LB2515	LB2515	GCF_052546295.1	SAMN50882517	PRJNA1313090	Culture-derived genome	salt marsh benthos
+BCRBG_50147__BCRBG_50147	BCRBG_50147__BCRBG_50147	BCRBG_50147	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_50079__BCRBG_50079	BCRBG_50079__BCRBG_50079	BCRBG_50079	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_50124__BCRBG_50124	BCRBG_50124__BCRBG_50124	BCRBG_50124	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_012030715_Synechococcaceae_cyanobacterium_SM2_3_1	Synechococcaceae cyanobacterium SM2_3_1	SM2_3_1	GCA_012030715.1	SAMN14376584	PRJNA612530		Stromatolite
+SRR10095374_bin41__JAAUUJ01	SRR10095374_bin41__JAAUUJ01	SRR10095374_bin41	Not resolved	Not resolved	Not resolved		Not resolved
+BCRBG_52411__JAAUUM01	BCRBG_52411__JAAUUM01	BCRBG_52411	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_039794685_Thermostichus_sp._HHBFW_bins_43	Thermostichus sp. HHBFW_bins_43	HHBFW_bins_43	GCA_039794685.1	SAMN36706962	PRJNA998252		hot spring sediment
+GCA_039794885_Thermostichus_sp._DG02_5_bins_236	Thermostichus sp. DG02_5_bins_236	DG02_5_bins_236	GCA_039794885.1	SAMN36706952	PRJNA998252		hot spring sediment
+GCF_022848905_Thermostichus_vulcanus_str._Rupite	Thermostichus vulcanus str. 'Rupite'	Rupite	GCF_022848905.1	SAMN18021128	PRJNA703471	Culture-derived genome	hot spring soil mat
+TPMCOTU_10099__Thermostichus	TPMCOTU_10099__Thermostichus	TPMCOTU_10099	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_00095033__Thermostichus	SPIREOTU_00095033__Thermostichus	SPIREOTU_00095033	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_015295985_Synechococcus_sp._M44_DOE_062	Synechococcus sp. M44_DOE_062	M44_DOE_062	GCA_015295985.1	SAMN15062738	PRJNA635751		hot spring sediment
+GCF_047461655_Synechococcus_sp._W55.1	Synechococcus sp. W55.1	W55.1	GCF_047461655.1	SAMN29757914	PRJNA795194	Culture-derived genome	Section of microbial mat collected from hot spring water
+GCF_000013225_Synechococcus_sp._JA-2-3B_a_2-13	Synechococcus sp. JA-2-3B'a(2-13)	JA-2-3B'a(2-13)	GCF_000013225.1	SAMN02604049	PRJNA16252		Not available in retrieved metadata
+GCF_000013205_Synechococcus_sp._JA-3-3Ab	Synechococcus sp. JA-3-3Ab	JA-3-3Ab	GCF_000013205.1	SAMN02604048	PRJNA16251		top 2mm of microbial mat from collected 51-61 deg C temperature site in the Octopus Spring effluent channel, Yellowstone National Park
+GCA_047462095_Synechococcus_sp._R55.1	Synechococcus sp. R55.1	R55.1	GCA_047462095.1	SAMN29757890	PRJNA795194	Culture-derived genome	Section of microbial mat collected from hot spring water
+GCF_047502655_Synechococcus_sp._R5-12	Synechococcus sp. R5-12	R5-12	GCF_047502655.1	SAMN29757900	PRJNA795194	Culture-derived genome	Section of microbial mat collected from hot spring water
+MAG202307_SRR12687782_bin86__FACHB-886	MAG202307_SRR12687782_bin86__FACHB-886	bin86	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_012031035_Candidatus_Altimarinota_bacterium	Candidatus Altimarinota bacterium	SU_1_2	GCA_012031035.1	SAMN14376594	PRJNA612530		Stromatolite
+GCA_025454425_Hydrococcus_sp._Prado102	Hydrococcus sp. Prado102	Prado102	GCA_025454425.1	SAMN27108561	PRJNA818364		Wetland A3
+GCF_014695405_Leptolyngbya_sp._FACHB-1624	Leptolyngbya sp. FACHB-1624	FACHB-1624	GCF_014695405.1	SAMN13702799	PRJNA598298		Terrestrial
+GCF_000353285_Leptolyngbya_boryana_PCC_6306	Leptolyngbya boryana PCC 6306	PCC 6306	GCF_000353285.1	SAMN02261250	PRJNA158729; PRJNA166933	Culture-derived genome	unialgal culture in lake water
+GCA_025454375_Leptolyngbya_sp._Prado105	Leptolyngbya sp. Prado105	Prado105	GCA_025454375.1	SAMN27108564	PRJNA818364		Wetland A3
+GCF_017302695_Leptolyngbya_sp._UWPOB_LEPTO1	Leptolyngbya sp. UWPOB_LEPTO1	UWPOB_LEPTO1	GCF_017302695.1	SAMN18059866	PRJNA704939		activated sludge
+GCF_903837405_Synechococcus_lacustris	Synechococcus lacustris		GCF_903837405.1	SAMEA6952119	PRJEB38681		lake water
+SPIREOTU_00337174__Cyanobium	SPIREOTU_00337174__Cyanobium	SPIREOTU_00337174	Not resolved	Not resolved	Not resolved		Not resolved
+MaxBin2_ERR9580651.002__Cyanobium	MaxBin2_ERR9580651.002__Cyanobium	MaxBin2_ERR9580651.002	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_903906915_uncultured_Synechococcus_sp.	uncultured Synechococcus sp.		GCA_903906915.1	SAMEA6949945	PRJEB38681		lake water
+GCF_002252705_Vulcanococcus_limneticus_LL	Vulcanococcus limneticus LL	LL	GCF_002252705.1	SAMN07427899	PRJNA396543	Culture-derived genome	Not available in retrieved metadata
+GCA_020721205_Prochloron_sp._SulCav_FS08_3_32_3330	Prochloron sp. SulCav_FS08_3_32_3330	SulCav_FS08_3_32_3330	GCA_020721205.1	SAMN22209493	PRJNA767587		biofilm from sulfidic cave
+SRR25018372_bin.17__JBEDKD01	SRR25018372_bin.17__JBEDKD01	SRR25018372_bin.17	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_01041017__JBEDKD01	SPIREOTU_01041017__JBEDKD01	SPIREOTU_01041017	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_02005279__Synechocystis	SPIREOTU_02005279__Synechocystis	SPIREOTU_02005279	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_035285965_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	720213	GCA_035285965.1	SAMN39195538	PRJNA691704		surface water
+GCA_016471375_Cyanobacteria_bacterium_RI_101	Cyanobacteria bacterium RI_101	RI_101	GCA_016471375.1	SAMN12792719	PRJNA412936		Hot springs and caldera lake in caldera of Raoul Island/Rangitaahua island arc volcano
+TPMCOTU_01034__Woronichinia	TPMCOTU_01034__Woronichinia	TPMCOTU_01034	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_035285405_Snowella_sp.	Snowella sp.	881055	GCA_035285405.1	SAMN39195547	PRJNA691704		surface water
+MOTU40_068845__Snowella	MOTU40_068845__Snowella	MOTU40_068845	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_069554__Snowella	MOTU40_069554__Snowella	MOTU40_069554	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_001904725_Phormidium_ambiguum_IAM_M-71	[Phormidium ambiguum] IAM M-71	IAM M-71	GCF_001904725.1	SAMN05890689	PRJNA347433	Culture-derived genome	Not available in retrieved metadata
+GCA_936920195_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_936920195.1	SAMEA13911880	PRJEB51079; PRJEB51083		plant metagenome
+GCF_965232925_Tumidithrix_helvetica_PCC_7403	Tumidithrix helvetica PCC 7403	PCC 7403	GCF_965232925.1	SAMEA117959547	PRJEB87789		Not available in retrieved metadata
+GCA_003249015_Pseudanabaena_sp.	Pseudanabaena sp.	ULC187bin1	GCA_003249015.1	SAMN08896002	PRJNA436342		microbial mat ULC187
+GCF_029910235_Pseudanabaena_galeata_CCNP1313	Pseudanabaena galeata CCNP1313	CCNP1313	GCF_029910235.1	SAMN31016687	PRJNA884271	Culture-derived genome	Not available in retrieved metadata
+MOTU40_068707__Pseudanabaena	MOTU40_068707__Pseudanabaena	MOTU40_068707	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_002325645_Pseudanabaena_sp._UBA1465	Pseudanabaena sp. UBA1465	UBA1465	GCA_002325645.1	SAMN06454073	PRJNA348753		water
+GCF_002914585_Pseudanabaena_sp._BC1403	Pseudanabaena sp. BC1403	BC1403	GCF_002914585.1	SAMN07741527	PRJNA413398	Culture-derived genome	freshwater
+GCF_012863495_Pseudanabaena_yagii_GIHE-NHR1	Pseudanabaena yagii GIHE-NHR1	GIHE-NHR1	GCF_012863495.1	SAMN14483332	PRJNA616171	Culture-derived genome	Water source with 2-MIB odor
+GCF_002251945_Pseudanabaena_sp._SR411	Pseudanabaena sp. SR411	SR411	GCF_002251945.1	SAMN06761459	PRJNA383344		water
+GCF_003967015_Pseudanabaena_sp._ABRG5-3	Pseudanabaena sp. ABRG5-3	ABRG5-3	GCF_003967015.1	SAMD00051590	PRJDB4831		Not available in retrieved metadata
+GCA_903819605_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_903819605.1	SAMEA6946777	PRJEB38681		pond
+GCA_903844015_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_903844015.1	SAMEA6948708	PRJEB38681		lake water
+GCA_003501625_Cyanobacteria_bacterium_UBA11366	Cyanobacteria bacterium UBA11366	UBA11366	GCA_003501625.1	SAMN08018637	PRJNA417962		sediment
+GCA_001698425_Oscillatoriales_cyanobacterium_USR001	Oscillatoriales cyanobacterium USR001	missing	GCA_001698425.1	SAMN05416373	PRJNA329643		co-culture originated from a tropical freshwater lake
+GCA_963744145_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_963744145.1	SAMEA114810734	PRJEB58634		soil
+GCF_000180455_Kamptonema_sp._PCC_6506	Kamptonema sp. PCC 6506	PCC 6506	GCF_000180455.1	SAMEA2272769	PRJEA49445		Not available in retrieved metadata
+GCA_903893625_uncultured_Oscillatoriales_cyanobacterium	uncultured Oscillatoriales cyanobacterium		GCA_903893625.1	SAMEA6954377	PRJEB38681		lake water
+GCF_900010725_Planktothrix_serta_PCC_8927	Planktothrix serta PCC 8927		GCF_900010725.2	SAMEA3590991	PRJEB10992		Not available in retrieved metadata
+GCA_041738715_Chamaesiphon_sp.	Chamaesiphon sp.	JTS-AC30	GCA_041738715.1	SAMN41306588	PRJNA1080596		biofilm from active travertine-forming spring
+GCF_000317515_Allocoleopsis_franciscana_PCC_7113	Allocoleopsis franciscana PCC 7113	PCC 7113	GCF_000317515.1	SAMN02261351	PRJNA158839; PRJNA166933	Culture-derived genome	Soil, orchid house, San Francisco, USA, 1971
+GCA_036704025_Stenomitos_sp.	Stenomitos sp.	SMAG_U16506	GCA_036704025.1	SAMN38324505	PRJNA983538		soil
+GCA_035285345_Nostocaceae_cyanobacterium	Nostocaceae cyanobacterium	827261	GCA_035285345.1	SAMN39195546	PRJNA691704		surface water
+SRR13020431-bin57__JAYKJH01	SRR13020431-bin57__JAYKJH01	SRR13020431-bin57	Not resolved	Not resolved	Not resolved		Not resolved
+ERR3440680-bin3__Leptolyngbya	ERR3440680-bin3__Leptolyngbya	ERR3440680-bin3	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_014695255_Cyanobacteria_bacterium_FACHB-63	Cyanobacteria bacterium FACHB-63	FACHB-63	GCA_014695255.1	SAMN13702806	PRJNA598298		Terrestrial
+GCF_000317125_Chroococcidiopsis_thermalis_PCC_7203	Chroococcidiopsis thermalis PCC 7203	PCC 7203	GCF_000317125.1	SAMN02261359	PRJNA38119; PRJNA166933	Culture-derived genome	soil sample, near Greifswald, East Germany
+GCA_015206905_Chroococcidiopsidales_cyanobacterium_LEGE_13417	Chroococcidiopsidales cyanobacterium LEGE 13417	LEGE 13417	GCA_015206905.1	SAMN16351762	PRJNA667061	Culture-derived genome	"""Chlorella"" dietary supplement, tablet form"
+GCF_002939305_Chroococcidiopsis_sp._TS-821	Chroococcidiopsis sp. TS-821	TS-821	GCF_002939305.1	SAMN06318515	PRJNA373905	Culture-derived genome	hot springs
+GCF_001904655_Chroogloeocystis_siderophila_5.2_s.c.1	Chroogloeocystis siderophila 5.2 s.c.1	5.2 s.c.1	GCF_001904655.1	SAMN05890687	PRJNA347433	Culture-derived genome	Not available in retrieved metadata
+GCF_040328315_Gloeocapsa_sp._BRSZ	Gloeocapsa sp. BRSZ	BRSZ	GCF_040328315.1	SAMN41723176	PRJNA1120971		hot spring water
+GCF_015207655_Gloeocapsopsis_crepidinum_LEGE_06123	Gloeocapsopsis crepidinum LEGE 06123	LEGE 06123	GCF_015207655.1	SAMN16351726	PRJNA667061	Culture-derived genome	intertidal zone, on green algae
+GCA_036703095_Crinalium_sp.	Crinalium sp.	SMAG_U16487	GCA_036703095.1	SAMN38324486	PRJNA983538		soil
+GCA_015295905_Synechococcales_cyanobacterium_M55_K2018_004	Synechococcales cyanobacterium M55_K2018_004	M55_K2018_004	GCA_015295905.1	SAMN15062743	PRJNA635751		Hot spring_55deg.
+BCRBG_75001__DVEB01	BCRBG_75001__DVEB01	BCRBG_75001	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_014696265_Aerosakkonema_funiforme_FACHB-1375	Aerosakkonema funiforme FACHB-1375	FACHB-1375	GCF_014696265.1	SAMN13702754	PRJNA598298		freshwater
+GCF_041929145_Aerosakkonema_sp._BLCC-F183	Aerosakkonema sp. BLCC-F183	BLCC-F183	GCF_041929145.1	SAMN43549594	PRJNA1156782	Culture-derived genome	Not available in retrieved metadata
+GCA_002796835_Elainella_saxicola_E1	Elainella saxicola E1	E1	GCA_002796835.1	SAMN04525178	PRJNA313515		unialgal culture inoculated from water sample from a temporary water body in a tropical forest; contains one cyanobacterium and few bacterial species (which were removed by filtration)
+GEMOTU_35158__GEMOTU_35158	GEMOTU_35158__GEMOTU_35158	GEMOTU_35158	Not resolved	Not resolved	Not resolved		Not resolved
+ERR3440673_bin21__ERR3440673_bin21	ERR3440673_bin21__ERR3440673_bin21	ERR3440673_bin21	Not resolved	Not resolved	Not resolved		Not resolved
+SRR12687342_bin127__SRR12687342_bin127	SRR12687342_bin127__SRR12687342_bin127	SRR12687342_bin127	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_014697545_Oscillatoria_sp._FACHB-1407	Oscillatoria sp. FACHB-1407	FACHB-1407	GCF_014697545.1	SAMN13702697	PRJNA598298		freshwater
+SRR13020431-bin58__Elainella	SRR13020431-bin58__Elainella	SRR13020431-bin58	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_015207605_Oculatella_sp._LEGE_06141	Oculatella sp. LEGE 06141	LEGE 06141	GCF_015207605.1	SAMN16351727	PRJNA667061	Culture-derived genome	intertidal zone, on green macroalga
+GCA_041737215_Elainella_sp.	Elainella sp.	JTS-AC374	GCA_041737215.1	SAMN41306661	PRJNA1080596		biofilm from active travertine-forming spring
+SRR20396283-bin10__CCP2	SRR20396283-bin10__CCP2	SRR20396283-bin10	Not resolved	Not resolved	Not resolved		Not resolved
+MOTU40_033239__Kamptonema	MOTU40_033239__Kamptonema	MOTU40_033239	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_036704065_Stenomitos_sp.	Stenomitos sp.	SMAG_U16505	GCA_036704065.1	SAMN38324504	PRJNA983538		soil
+GCA_019359045_Scytolyngbya_sp._HA4215-MV1	Scytolyngbya sp. HA4215-MV1	HA4215-MV1	GCA_019359045.1	SAMN19065583	PRJNA727914; PRJNA688935		sample from the stream from Laie Falls
+GCA_015296075_Leptolyngbyaceae_cyanobacterium_M33_DOE_097	Leptolyngbyaceae cyanobacterium M33_DOE_097	M33_DOE_097	GCA_015296075.1	SAMN15062736	PRJNA635751		hot spring sediment
+ERR3440667-bin2__JSC-12	ERR3440667-bin2__JSC-12	ERR3440667-bin2	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_019891175_Leptothermofonsia_sichuanensis_E412	Leptothermofonsia sichuanensis E412	E412	GCF_019891175.1	SAMN18435728	PRJNA716429	Culture-derived genome	Not available in retrieved metadata
+SAMN03856834__DSRU01	SAMN03856834__DSRU01	SAMN03856834	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_938023035_uncultured_Leptolyngbyaceae_cyanobacterium	uncultured Leptolyngbyaceae cyanobacterium		GCA_938023035.1	SAMEA14073638	PRJEB50838		Mariane sediment
+SRR13020431-bin59__Scytolyngbya	SRR13020431-bin59__Scytolyngbya	SRR13020431-bin59	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_012033355_Leptolyngbyaceae_cyanobacterium_RM1_406_9	Leptolyngbyaceae cyanobacterium RM1_406_9	RM1_406_9	GCA_012033355.1	SAMN14376496	PRJNA612530		Stromatolite
+SemiBins2_ERR3494946_72__SemiBins2_ERR3494946_72	SemiBins2_ERR3494946_72__SemiBins2_ERR3494946_72	SemiBins2_ERR3494946_72	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_000775285_Neosynechococcus_sphagnicola_sy1_strain_CAUP_A_1101	Neosynechococcus sphagnicola sy1	CAUP A 1101	GCF_000775285.1	SAMN02725026	PRJNA244289		Peat moss
+GCA_041937185_Leptolyngbya_sp._BL-A-14	Leptolyngbya sp. BL-A-14	BL-A-14	GCA_041937185.1	SAMN38641485	PRJNA1048477		surface lake water
+GCA_012034815_Cyanobacteria_bacterium_CRU_2_1	Cyanobacteria bacterium CRU_2_1	CRU_2_1	GCA_012034815.1	SAMN14376431	PRJNA612530		Stromatolite
+GCF_044923475_Altericista_sp._CCNU0014	Altericista sp. CCNU0014	CCNU0014	GCF_044923475.1	SAMN37954650	PRJNA1031325	Culture-derived genome	freshwater stream in an inland mountain
+GCA_016208305_Oscillatoriophycideae_cyanobacterium_NC_groundwater_1537_Pr4_S-0.65um_50_18	Oscillatoriophycideae cyanobacterium NC_groundwater_1537_Pr4_S-0.65um_50_18	Pr4_S-0.65um_50_18	GCA_016208305.1	SAMN15436184	PRJNA640378		groundwater
+TPMCOTU_01163__Microcoleus_bourrellyi	Microcoleus bourrellyi	TPMCOTU_01163	Not resolved	Not resolved	Not resolved		Not resolved
+TPMCOTU_07958__Microcoleus	TPMCOTU_07958__Microcoleus	TPMCOTU_07958	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_036170595_Cyanobacteria_bacterium_WB02no18_51_8	Cyanobacteria bacterium WB02no18_51_8	WB02no18_51_8	GCA_036170595.1	SAMN36972113	PRJNA1001268		groundwater from erupting cold-water geyser
+GCA_041752515_Leptolyngbyaceae_cyanobacterium	Leptolyngbyaceae cyanobacterium	JTS-AC478	GCA_041752515.1	SAMN41306770	PRJNA1080596		biofilm from active travertine-forming spring
+SRR931044-bin11__Planktothrix_sp003456035	Planktothrix sp003456035	SRR931044-bin11	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_012031635_Coleofasciculaceae_cyanobacterium_SM2_1_6	Coleofasciculaceae cyanobacterium SM2_1_6	SM2_1_6	GCA_012031635.1	SAMN14376579	PRJNA612530		Stromatolite
+SRR25018314_bin.32__ULC077BIN1	SRR25018314_bin.32__ULC077BIN1	SRR25018314_bin.32	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_943370025_Phormidium_lacuna_HE10JO	Phormidium lacuna HE10JO		GCA_943370025.1	SAMEA14447200	PRJEB49198		Freshwater lake
+GCA_052939495_Phormidesmis_sp._146-12	Phormidesmis sp. 146-12	146-12	GCA_052939495.1	SAMN45088394	PRJNA1191684	Culture-derived genome	Not available in retrieved metadata
+GCA_019359155_Pegethrix_bostrychoides_GSE-TBD4-15B	Pegethrix bostrychoides GSE-TBD4-15B	GSE-TBD4-15B	GCA_019359155.1	SAMN19065578	PRJNA727914; PRJNA688935		sandstone seep wall
+GCA_963766075_uncultured_cyanobacterium	uncultured cyanobacterium		GCA_963766075.1	SAMEA114813797	PRJEB58634		sediment
+GCA_036704685_Microcoleus_sp._F8-D3	Microcoleus sp. F8-D3	F8-D3	GCA_036704685.1	SAMN35790391	PRJNA985139		soil
+GCA_016743235_Pantanalinema_sp._GBBB05	Pantanalinema sp. GBBB05	GBBB05	GCA_016743235.1	SAMN12574296	PRJNA560270		non-axenic (unialgal) sample in BG-11 medium
+GCF_001939115_Leptolyngbya_sp._hensonii	Leptolyngbya sp. 'hensonii'	hensonii	GCF_001939115.1	SAMN06074267	PRJNA355315	Culture-derived genome	pinnacle phototroph mat
+GCA_035285565_Synechococcales_cyanobacterium	Synechococcales cyanobacterium	1279498	GCA_035285565.1	SAMN39195484	PRJNA691704		surface water
+ERR3440669_bin7__ERR3440669_bin7	ERR3440669_bin7__ERR3440669_bin7	ERR3440669_bin7	Not resolved	Not resolved	Not resolved		Not resolved
+MetaBAT2_SRR18577831_bin.7__Leptodesmis	MetaBAT2_SRR18577831_bin.7__Leptodesmis	MetaBAT2_SRR18577831_bin.7	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_027482985_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	D1_MAG_00067	GCA_027482985.1	SAMN21888940	PRJNA767443		pond D1 freshwater mesocosm in the Large Experimental Array of Ponds platform
+GCA_033764685_Leptolyngbyaceae_cyanobacterium_bins.349	Leptolyngbyaceae cyanobacterium bins.349	bins.349	GCA_033764685.1	SAMN30172120	PRJNA866711		biological aqua crust from mine drainage
+GCF_002215035_Leptolyngbya_ohadii_IS1	Leptolyngbya ohadii IS1	IS1	GCF_002215035.1	SAMN07204499	PRJNA389637		Biological soil crust
+GCA_000309945_Leptolyngbyaceae_cyanobacterium_JSC-12	Leptolyngbyaceae cyanobacterium JSC-12	JSC-12	GCA_000309945.1	SAMN02261267	PRJNA66005	Culture-derived genome	Not available in retrieved metadata
+GCA_025054735_Cyanobacteriota_bacterium	Cyanobacteriota bacterium	SKYG9	GCA_025054735.1	SAMN30304822	PRJNA761511		green biofilm from alkaline hot spring
+GCA_000733415_Leptolyngbya_sp._JSC-1	[Leptolyngbya] sp. JSC-1	JSC-1	GCA_000733415.1	SAMN02743038	PRJNA62993		Not available in retrieved metadata
+GCF_032598965_Leptolyngbya_sp._NK1-12	Leptolyngbya sp. NK1-12	NK1-12	GCF_032598965.1	SAMN14884228	PRJNA628565	Culture-derived genome	biofilm
+GCF_014697025_Alkalinema_sp._FACHB-956	Alkalinema sp. FACHB-956	FACHB-956	GCF_014697025.1	SAMN13702721	PRJNA598298		freshwater
+GCF_014697055_Calothrix_sp._FACHB-156	Calothrix sp. FACHB-156	FACHB-156	GCF_014697055.1	SAMN13702720	PRJNA598298		freshwater
+GCF_014696435_Calothrix_anomala_FACHB-343	Calothrix anomala FACHB-343	FACHB-343	GCF_014696435.1	SAMN13702744	PRJNA598298		Terrestrial
+GCF_014696495_Calothrix_sp._FACHB-168	Calothrix sp. FACHB-168	FACHB-168	GCF_014696495.1	SAMN13702745	PRJNA598298		freshwater
+GCF_002368055_Aulosira_laxa_NIES-50	Aulosira laxa NIES-50	NIES-50	GCF_002368055.1	SAMD00079799	PRJDB5665		Not available in retrieved metadata
+GCF_963875125_Calothrix_sp._NIES-2098	Calothrix sp. NIES-2098		GCF_963875125.1	SAMEA115017499	PRJEB71012		Not available in retrieved metadata
+MetaBAT2_SRR24236063_bin.26__Leptothermofonsia	MetaBAT2_SRR24236063_bin.26__Leptothermofonsia	MetaBAT2_SRR24236063_bin.26	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_964657555_uncultured_Microcoleus_sp.	uncultured Microcoleus sp.		GCA_964657555.1	SAMEA117515064	PRJEB76464		Bryophytes in the boreal forest
+GCF_014222165_Nostoc_sp._2RC	Nostoc sp. 2RC	2RC	GCF_014222165.1	SAMN10347678	PRJNA591930	Culture-derived genome	missing
+GCF_963875285_Calothrix_sp._NIES-2100	Calothrix sp. NIES-2100		GCF_963875285.1	SAMEA115017500	PRJEB71012		Not available in retrieved metadata
+GCA_014696315_Calothrix_membranacea_FACHB-236	Calothrix membranacea FACHB-236	FACHB-236	GCA_014696315.1	SAMN13702753	PRJNA598298		Terrestrial
+GCF_000204075_Trichormus_variabilis_ATCC_29413	Trichormus variabilis ATCC 29413	ATCC 29413	GCF_000204075.1	SAMN02598253	PRJNA10642		Not available in retrieved metadata
+MOTU40_101104__Scytonema	MOTU40_101104__Scytonema	MOTU40_101104	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_044006015_Heteroscytonema_crispum_UTEX_LB_1556	Heteroscytonema crispum UTEX LB 1556	UTEX LB 1556	GCA_044006015.1	SAMN44346835	PRJNA1174761		non-axenic culture
+GCF_014698965_Iningainema_tapete_BLCC-T55	Iningainema tapete BLCC-T55	BLCC-T55	GCF_014698965.1	SAMN16082748	PRJNA662357	Culture-derived genome	subaerial and terrestrial within greenhouses
+MetaBAT2_SRR30711686_bin.9__Tolypothrix_B	MetaBAT2_SRR30711686_bin.9__Tolypothrix_B	MetaBAT2_SRR30711686_bin.9	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_019359075_Kalymmatonema_hyalinum_WJT4-NPBG1	Kalymmatonema hyalinum WJT4-NPBG1	WJT4-NPBG1	GCA_019359075.1	SAMN19065584	PRJNA727914; PRJNA688935		well developed soil crust
+GCF_000315565_Mastigocladopsis_repens_PCC_10914	Mastigocladopsis repens PCC 10914	PCC 10914	GCF_000315565.1	SAMN02261251	PRJNA158735; PRJNA166933	Culture-derived genome	Not available in retrieved metadata
+GCA_002368435_Kalymmatonema_gypsitolerans_NIES-4073	Kalymmatonema gypsitolerans NIES-4073	NIES-4073	GCA_002368435.1	SAMD00081176	PRJDB5665		Not available in retrieved metadata
+GCF_001904675_Scytonema_sp._HK-05	Scytonema sp. HK-05	HK-05	GCF_001904675.1	SAMN05890690	PRJNA347433	Culture-derived genome	Not available in retrieved metadata
+GCF_963920835_Scytonema_sp._PCC_10023	Scytonema sp. PCC 10023	Scytonema sp. PCC 10023	GCF_963920835.1	SAMEA114538418	PRJEB67822		Not available in retrieved metadata
+GCA_000828075_Tolypothrix_campylonemoides_VB511288	Tolypothrix campylonemoides VB511288	VB511288	GCA_000828075.3	SAMN03274356	PRJNA271449		environmental
+GCA_019359415_Iphinoe_sp._HA4291-MV1	Iphinoe sp. HA4291-MV1	HA4291-MV1	GCA_019359415.1	SAMN19065564	PRJNA727914; PRJNA688935		trail next to Maunawili Fall
+GCA_012031965_Scytonema_sp._RU_4_4	Scytonema sp. RU_4_4	RU_4_4	GCA_012031965.1	SAMN14376525	PRJNA612530		Stromatolite
+GCA_002163975_Nostocales_cyanobacterium_HT-58-2	Nostocales cyanobacterium HT-58-2	HT-58-2	GCA_002163975.1	SAMN06283870	PRJNA369278		Nan Madol, Pohnpei soil
+GCF_012912105_Brasilonema_sp._UFV-L1	Brasilonema sp. UFV-L1	UFV-L1	GCF_012912105.1	SAMN09468271	PRJNA477356		leaves
+GCA_017982655_Brasilonema_sp._CT11	Brasilonema sp. CT11	CT11	GCA_017982655.1	SAMN15366321	PRJNA641777		black mat on a bamboo trunk in bamboo forest
+GCA_019359695_Brasilonema_angustatum_HA4187-MV1	Brasilonema angustatum HA4187-MV1	HA4187-MV1	GCA_019359695.1	SAMN19065551	PRJNA727914; PRJNA688935		moss bank soil
+GCF_012912125_Brasilonema_octagenarum_UFV-OR1	Brasilonema octagenarum UFV-OR1	UFV-OR1	GCF_012912125.1	SAMN09468269	PRJNA477356		leaves
+GCF_006968745_Brasilonema_sennae_CENA114	Brasilonema sennae CENA114	CENA114	GCF_006968745.1	SAMN09467079	PRJNA477356		iron water pipe
+GCA_000828085_Scytonema_tolypothrichoides_VB-61278	Scytonema tolypothrichoides VB-61278	VB-61278	GCA_000828085.3	SAMN03274355	PRJNA271448		environmental
+SAMN09468270__Brasilonema_bromeliae	Brasilonema bromeliae	SAMN09468270	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_012912135_Brasilonema_bromeliae_SPC951	Brasilonema bromeliae SPC951	SPC951	GCF_012912135.1	SAMN09468270	PRJNA477356		leaves
+SRR21778117_bin.34__SRR21778117_bin.34	SRR21778117_bin.34__SRR21778117_bin.34	SRR21778117_bin.34	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_002218085_Tolypothrix_sp._NIES-4075	Tolypothrix sp. NIES-4075	NIES-4075	GCF_002218085.1	SAMD00081171	PRJDB5665		Not available in retrieved metadata
+GCF_000817785_Hassallia_byssoidea_VB512170	Hassallia byssoidea VB512170	VB512170	GCF_000817785.2	SAMN03174155	PRJNA266752		monuments
+GCA_019358935_Tolypothrix_carrinoi_HA7290-LM1	Tolypothrix carrinoi HA7290-LM1	HA7290-LM1	GCA_019358935.1	SAMN19065593	PRJNA727914; PRJNA688935		dry rock wall scrape from sinkhole in cave
+GCA_019359015_Spirirestis_rafaelensis_WJT71-NPBG6	Spirirestis rafaelensis WJT71-NPBG6	WJT71-NPBG6	GCA_019359015.1	SAMN19065586	PRJNA727914; PRJNA688935		granitic soil
+SRR23898726_bin1__Hassallia	SRR23898726_bin1__Hassallia	SRR23898726_bin1	Not resolved	Not resolved	Not resolved		Not resolved
+SRR3184717_bin9__Hassallia	SRR3184717_bin9__Hassallia	SRR3184717_bin9	Not resolved	Not resolved	Not resolved		Not resolved
+SPIREOTU_01041390__Hassallia	SPIREOTU_01041390__Hassallia	SPIREOTU_01041390	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_019359425_Hassallia_sp._WJT32-NPBG1	Hassallia sp. WJT32-NPBG1	WJT32-NPBG1	GCA_019359425.1	SAMN19065562	PRJNA727914; PRJNA688935		well developed soil crust
+GCA_949127805_Nostocales_cyanobacterium_PMM_0081	Nostocales cyanobacterium PMM_0081		GCA_949127805.1	SAMEA112467287	PRJEB59431		microbial mat
+Metabat2_SRR19097882_bin.9__Hassallia	Metabat2_SRR19097882_bin.9__Hassallia	Metabat2_SRR19097882_bin.9	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_025753815_Plectonema_radiosum_NIES-515	Plectonema radiosum NIES-515	NIES-515	GCF_025753815.1	SAMN31253193	PRJNA889752	Culture-derived genome	Freshwater (River water)
+GCF_000582685_Scytonema_hofmanni_UTEX_2349	[Scytonema hofmanni] UTEX 2349	UTEX 2349	GCF_000582685.1	SAMN00203911	PRJNA63425; PRJNA166933		Not available in retrieved metadata
+ERR10836081-bin7__Hassallia_sp949127635	Hassallia sp949127635	ERR10836081-bin7	Not resolved	Not resolved	Not resolved		Not resolved
+GCA_937873135_uncultured_Scytonema_sp.	uncultured Scytonema sp.		GCA_937873135.1	SAMEA14035947	PRJEB51077; PRJEB51083		lichen metagenome
+GCA_029379285_Rhizonema_sp._PD38	Rhizonema sp. PD38	PD38	GCA_029379285.1	SAMN32605762	PRJNA918780		lichen thallus
+GCA_029379215_Rhizonema_sp._PD37	Rhizonema sp. PD37	PD37	GCA_029379215.1	SAMN32605761	PRJNA918780		lichen thallus
+GCA_029379265_Rhizonema_sp._NSF051	Rhizonema sp. NSF051	NSF051	GCA_029379265.1	SAMN32605760	PRJNA918780		lichen thallus
+GCF_017591595_Aetokthonos_hydrillicola_Thurmond2011	Aetokthonos hydrillicola Thurmond2011	Thurmond2011	GCF_017591595.2	SAMN14149998	PRJNA606751		freshwater lake, on underside of leaves
+GCA_021324415_Nostocales_cyanobacterium_Centralia_MAG_434	Nostocales cyanobacterium Centralia_MAG_434	Centralia_MAG_434	GCA_021324415.1	SAMN11116434	PRJNA526826		soil
+SPIREOTU_01922499__UHCC-0302	SPIREOTU_01922499__UHCC-0302	SPIREOTU_01922499	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_016056295_Atlanticothrix_silvestris_CENA357	Atlanticothrix silvestris CENA357	CENA357	GCF_016056295.1	SAMN16982919	PRJNA682198		Not available in retrieved metadata
+GEMOTU_20530__Atlanticothrix	GEMOTU_20530__Atlanticothrix	GEMOTU_20530	Not resolved	Not resolved	Not resolved		Not resolved
+GCF_038096175_Nostoc_sp._UHCC_0302	Nostoc sp. UHCC 0302	UHCC 0302	GCF_038096175.1	SAMN40584958	PRJNA1091055		lake sediment
